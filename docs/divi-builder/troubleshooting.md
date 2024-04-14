@@ -2,14 +2,13 @@
 sidebar_position: 2
 ---
 
-# Troubleshooting: CSS changes not updating
-Problem
--------
+# CSS changes not updating
+
+## Problem
 
 The Divi theme provides a lot of very powerful features, including a visual editor mode allowing you to drag and drop page elements. Newer versions of Divi generate static CSS files (and possibly other files) by default. This means that while making edits to a site using newer versions of Divi that have the **Static CSS File Generation** setting turned on, the changes won’t be made live immediately.
 
-Solution
---------
+## Solution
 
 To solve this problem, you will need to turn the static file generation off. The following blog on Divi’s site provides a more thorough explanation of this feature:
 
