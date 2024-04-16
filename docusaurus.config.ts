@@ -52,7 +52,7 @@ const config: Config = {
       appId: '8SYZR207TF',
 
       // Public API key: it is safe to commit it
-      apiKey: 'c5872156e7654f81a7340a54392e791f',
+      apiKey: 'faba3d7ba0c2f3489cccf964cf02dae6',
 
       indexName: 'webpro',
 
