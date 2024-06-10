@@ -3,7 +3,7 @@ sidebar_position: 1
 ---
 
 # Inbox Pro web chat widget installation and troubleshooting
-With AI-assisted web chat, businesses can capture more leads from their website.  An AI assistant will chat live with a website visitor, capture their contact information so a business can follow up later via SMS or email, and turn them into a customer. AI-assisted web chat is a feature of Inbox Pro product. Contact your sales rep today to have the widget activated for your website.
+With AI-assisted web chat, businesses can capture more leads from their website.  An AI assistant will chat live with a website visitor, capture their contact information so a business can follow up later via SMS or email, and turn them into a customer. AI-assisted web chat is a feature of Inbox Pro product. Contact your sales rep today to have the widget activated for your website.
 
 Once installed on a business website, the chat widget will appear to website visitors and encourage them to chat, with the goal of capturing a lead for the business.
 
@@ -58,12 +58,12 @@ What can I customize?
 How to install the Inbox Pro Web Chat widget on a website
 ---------------------------------------------------------
 
-To install your web chat widget on your website: After Inbox Pro is activated, go to Settings > Inbox Settings > Web Chat Configuration – and set up your web chat widget. After configuring, you can copy and paste your install code into the <head> element of your website, typically just before the closing </head> tag. 
+To install your web chat widget on your website: After Inbox Pro is activated, go to Settings > Inbox Settings > Web Chat Configuration – and set up your web chat widget. After configuring, you can copy and paste your install code into the <head> element of your website, typically just before the closing </head> tag. 
 
 ### OPTION 1: To install on a WordPress site using a plugin
 
 1.  Download the web chat widget installation plugin from Settings > Inbox Settings > Web Chat Configuration > Installation
-2.  Navigate to your WordPress backend admin, usually at _your-website.com_/wp-admin
+2.  Navigate to your WordPress backend admin, usually at _your-website.com_/wp-admin
 3.  Go to Plugins > Add new plugin
 4.  Upload the zip file containing the plugin you just downloaded.
 5.  Activate the plugin. Your web chat widget should now appear on every page of your website.
@@ -71,7 +71,7 @@ To install your web chat widget on your website: After Inbox Pro is activated, g
 ### OPTION 2: To install using widget code on a WordPress site with Divi theme:
 
 1.  Copy your web chat installation code into your clipboard.
-2.  Navigate to your WordPress backend admin, usually at _your-website.com_/wp-admin
+2.  Navigate to your WordPress backend admin, usually at _your-website.com_/wp-admin
 3.  Go to Divi > Theme Options > Integrations
 4.  Paste the code into the section titled “Add code to the < head > of your blog.”
 5.  Save changes. Your web chat widget should now be live on your website, on all pages.
@@ -85,7 +85,7 @@ Troubleshooting common issues:
 
 Some plugins can interfere with the ability to type in the widget because they “hijack” that key for their own functions.
 
-**Space key:** Divi theme “Smooth scrolling” function can interfere with the ability of your website visitors to type the ‘space’ key with the web chat widget. If you have the Divi theme on a WordPress website, you can disable smooth scrolling by going to Divi > Theme Options and disabling the **Smooth Scrolling** function. This should restore the space key on your website.
+**Space key:** Divi theme “Smooth scrolling” function can interfere with the ability of your website visitors to type the ‘space’ key with the web chat widget. If you have the Divi theme on a WordPress website, you can disable smooth scrolling by going to Divi > Theme Options and disabling the **Smooth Scrolling** function. This should restore the space key on your website.
 
 WordPress Jetpack plugin can also hijack some of the keys to open and close their own chat functions. Disabling the JetPack plugin will restore the function of these keys as well.
 
@@ -97,30 +97,30 @@ If the Web Chat code is installed on your website and enabled in Inbox Settings,
 
 Most websites use multiple types of caches that help the site to load faster. You’ll want to reset the caches, to get your latest website changes to appear.
 
-1.  **Browser cache** – to tell your browser to load the website without using local device cache
+1.  **Browser cache** – to tell your browser to load the website without using local device cache
     1.  Shift+command+R (Mac)
     2.  Ctrl + F5 (PC)
     
-2.  **Website hosting cache** – clear the cache that the Website product manages, by clicking the ‘Flush Cache’ button on the Website overview page.  
+2.  **Website hosting cache** – clear the cache that the Website product manages, by clicking the ‘Flush Cache’ button on the Website overview page.  
     ![](/img/hosting-cache.png)
 
-3.  **Divi CSS cache** – Disable the Static CSS File Generation cache in your Divi Theme options > Builder > Advanced
+3.  **Divi CSS cache** – Disable the Static CSS File Generation cache in your Divi Theme options > Builder > Advanced
     ![](/img/css-cache.png)
 
-4.  **Other Cache plugins** – Ensure there are no other cache plugins activated on your website; if so, disable them.
+4.  **Other Cache plugins** – Ensure there are no other cache plugins activated on your website; if so, disable them.
 
 ### Google reCAPTCHA badge is in the way  
 ![](/img/recapthca.png)
 
 When reCAPTCHA is being used on a website form, this badge will appear in the bottom right of a webpage – which could be in the way of the web chat widget.
 
-You can hide the badge completely on your website with some custom CSS; just make sure to follow Google’s required alternative ways to inform the user that reCAPTCHA is being used. Read more: [https://developers.google.com/recaptcha/docs/faq#id-like-to-hide-the-recaptcha-badge.-what-is-allowed](https://developers.google.com/recaptcha/docs/faq#id-like-to-hide-the-recaptcha-badge.-what-is-allowed)
+You can hide the badge completely on your website with some custom CSS; just make sure to follow Google’s required alternative ways to inform the user that reCAPTCHA is being used. Read more: [https://developers.google.com/recaptcha/docs/faq#id-like-to-hide-the-recaptcha-badge.-what-is-allowed](https://developers.google.com/recaptcha/docs/faq#id-like-to-hide-the-recaptcha-badge.-what-is-allowed)
 
-To hide the reCAPTCHA badge, go to your website CSS editor, 
+To hide the reCAPTCHA badge, go to your website CSS editor, 
 
 1.  Log in to your WordPress dashboard
-2.  Go to **Appearance** » **Customizer**
-3.  Click **Additional CSS**
+2.  Go to **Appearance** » **Customizer**
+3.  Click **Additional CSS**
 4.  Add the snippet below:
 
 ```css

@@ -46,7 +46,7 @@ Because of [our integration](https://help.websitepro.hosting/?p=133) between Web
 Examples of Plugins that might cause issues:
 
 *   [Rename WP Login](https://en-ca.wordpress.org/plugins/rename-wp-login/)
-*   [Jetpack](https://en-ca.wordpress.org/plugins/jetpack/) _Some functionality issues_ ([more information here](https://help.websitepro.hosting/?p=8))
+*   [Jetpack](https://en-ca.wordpress.org/plugins/jetpack/) _Some functionality issues_ ([more information here](https://help.websitepro.hosting/?p=8))
 
 SMTP/Email Plugins
 ------------------
@@ -64,7 +64,7 @@ Examples of Plugins that might cause issues:
 Security Plugins
 ----------------
 
-For Website Pro, security is fundamental.  We follow WordPress best practices for hosting security and go the extra mile to keep your site safe. We prevent brute force attacks to your site’s login screen (see _Login Plugins_ above) and keep our hosting infrastructure up to date with the latest security patches and configurations.
+For Website Pro, security is fundamental.  We follow WordPress best practices for hosting security and go the extra mile to keep your site safe. We prevent brute force attacks to your site’s login screen (see _Login Plugins_ above) and keep our hosting infrastructure up to date with the latest security patches and configurations.
 
 Several security plugins have been found to interfere with caching mechanisms, weigh down your site with a ton of overhead, and interfere with Website Pro’s security systems. We recommend you exercise caution when deciding to add security plugins.
 
@@ -102,7 +102,7 @@ Both of these options should allow you to access the WordPress Admin Dashboard a
 
 ### Modifying .htaccess or NGINX configs
 
-There are many plugins that try to create or modify Apache’s configuration files (.htaccess files) and/or NGINX configuration files. Any such changes made to these files by plugins or directly will not be recognized by Website Pro.  This is to ensure Website Pro maintains high levels of security and site speed. A site that relies on modifying those files might not function as expected in Website Pro.
+There are many plugins that try to create or modify Apache’s configuration files (.htaccess files) and/or NGINX configuration files. Any such changes made to these files by plugins or directly will not be recognized by Website Pro.  This is to ensure Website Pro maintains high levels of security and site speed. A site that relies on modifying those files might not function as expected in Website Pro.
 
 Examples of Plugins that might not function as expected:
 

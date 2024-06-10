@@ -10,10 +10,10 @@ Because of some of it’s features there are some steps you’ll have to follow 
 1.  Ensure your DNS Records (relevant A and CNAME records) are configured as [explained here](https://help.websitepro.hosting/?p=12).
 2.  In the “Crypto” tab of Cloudflare change the “SSL” to **Full**
 3.  In the “Crypto” tab of Cloudflare change “Always use HTTPS” to **Off**
-4.  In Website Pro, add the domain(s) in the Domains tab. Note: There might be some propagation delay for those records. See the [DNS Record Caching](https://help.websitepro.hosting/?p=4) article for more information about that.
-5.  In the “Crypto” tab of Cloudflare change “Always use HTTPS” to **On**, when the status of the domain(s) is “connected” in Website Pro**.**
+4.  In Website Pro, add the domain(s) in the Domains tab. Note: There might be some propagation delay for those records. See the [DNS Record Caching](https://help.websitepro.hosting/?p=4) article for more information about that.
+5.  In the “Crypto” tab of Cloudflare change “Always use HTTPS” to **On**, when the status of the domain(s) is “connected” in Website Pro**.**
 
-**Note**: Unfortunately CloudFlare has some technical limitations if you are using a four level domain (like “_www**.**your**.**business**.**com_“)  that can be solved in one of two ways:
+**Note**: Unfortunately CloudFlare has some technical limitations if you are using a four level domain (like “_www**.**your**.**business**.**com_“)  that can be solved in one of two ways:
 
-1.  Turn off the **DNS and HTTP Proxy** mode for that domain, or
+1.  Turn off the **DNS and HTTP Proxy** mode for that domain, or
 2.  Purchase additional SSL Certificates for CloudFlare under the “Crypto” tab under the “Edge Certificates > Order SSL Certificate” section.

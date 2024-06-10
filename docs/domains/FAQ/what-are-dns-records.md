@@ -3,7 +3,7 @@ sidebar_position: 3
 ---
 
 # What are DNS records
-The Domain Name System \[DNS\] refers to a collection of standards and internet infrastructure that allows a client (like Chrome, Safari, or Edge running on your laptop).  They allow us to use an easy-to-remember domain name to represent a server address.
+The Domain Name System \[DNS\] refers to a collection of standards and internet infrastructure that allows a client (like Chrome, Safari, or Edge running on your laptop).  They allow us to use an easy-to-remember domain name to represent a server address.
 
 It’s like being able to ask a Taxi Driver to take you to “the mall” instead of giving the exact street address. The Taxi Driver can look up a listing for the mall and find the address and directions.
 
@@ -25,7 +25,7 @@ The standards are detailed and in general, require a lot of explanation. Website
 
 2.  **CAA Records**
     *   This stands for “Certificate Authority Authorization”
-    *   A Certificate Authority is an organization that can give out the SSL/TLS Certificates
+    *   A Certificate Authority is an organization that can give out the SSL/TLS Certificates
         *   Those certificates prove “I’m the website I claim to be”
         *   They are also used to make your communication with that website private
         *   This is what allows the giving you the “s” in “https://…”

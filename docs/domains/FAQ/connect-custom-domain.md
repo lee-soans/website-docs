@@ -14,15 +14,15 @@ sidebar_position: 1
 
 ### Part 2: Configuring your Website Pro Site
 
-1.  Log into Website Pro and navigate to the **Domains** tab
-2.  Click **Connect a Domain**
+1.  Log into Website Pro and navigate to the **Domains** tab
+2.  Click **Connect a Domain**
 3.  Enter the domain name you purchased. Click **Add Domain.**
-4.  Website Pro will mark the new domain as **Pending** while it verifies that the DNS records are correct. Once the DNS records have been verified (Website Pro checks for this automatically), your domain will show as **Connected.** 
-5.  You will receive an email and see a notification in the **Recent** **Activity** stream of **Business Center**.
-6.  You can also **Delete** added domains from this tab.
-7.  Once it has been **connected** requests for your new domain will be redirected to the **Primary Domain**.
+4.  Website Pro will mark the new domain as **Pending** while it verifies that the DNS records are correct. Once the DNS records have been verified (Website Pro checks for this automatically), your domain will show as **Connected.** 
+5.  You will receive an email and see a notification in the **Recent** **Activity** stream of **Business Center**.
+6.  You can also **Delete** added domains from this tab.
+7.  Once it has been **connected** requests for your new domain will be redirected to the **Primary Domain**.
 
-You have the ability to set any of your **connected** domains to be the **Primary Domain**.
+You have the ability to set any of your **connected** domains to be the **Primary Domain**.
 
 1.  On the **Domains** tab
 2.  Find the domain in the list, expand the options menu on the right side, then click **Make Primary**.
