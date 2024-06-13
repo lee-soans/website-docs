@@ -7,7 +7,7 @@ With AI-assisted web chat, businesses can capture more leads from their website.
 
 Once installed on a business website, the chat widget will appear to website visitors and encourage them to chat, with the goal of capturing a lead for the business.
 
-![](/img/chat-widget.png)
+![](./img/chat-widget.png)
 
 Conversations will appear in Inbox where a business person can respond to the lead via SMS, and try to turn them into a customer. (SMS available for US and Canada-based businesses)
 
@@ -16,7 +16,7 @@ AI Assistant with no knowledge about the business
 
 By default, the AI assistant “just works” with the goal of capturing lead contact info, even without any context or knowledge about the business website it has been installed on – it will engage with a website visitor, recording their question and needs, attempt to get their name and contact info (mobile number, with a fallback to email address) and alert the business that they have a new lead.
 
-![](/img/chat-widget-conversation.png)
+![](./img/chat-widget-conversation.png)
 
 AI Assistant with business profile knowledge
 --------------------------------------------
@@ -36,7 +36,7 @@ These fields are shared with the AI from the account’s business profile:
 *   Long Description
 *   Social Media URLs
 
-![](/img/chat-widget-conversation-continued.png)
+![](./img/chat-widget-conversation-continued.png)
 
 How am I notified about a new lead?
 -----------------------------------
@@ -47,7 +47,7 @@ When your AI assistant is successful in capturing a name and contact info, a few
     1.  If a user updates their contact info in the AI-assisted web chat (like for example, if they make a mistake), the latest contact info will be updated on the contact automatically.
 2.  A “New lead” email notification is sent to users of the account, that have the notification enabled (this notification is enabled by default for Business App users)
 
-![](/img/new-lead.png)
+![](./img/new-lead.png)
 
 What can I customize?
 ---------------------
@@ -76,7 +76,7 @@ To install your web chat widget on your website: After Inbox Pro is activated, g
 4.  Paste the code into the section titled “Add code to the < head > of your blog.”
 5.  Save changes. Your web chat widget should now be live on your website, on all pages.
 
-![](/img/divi-theme-chat-widget.png)
+![](./img/divi-theme-chat-widget.png)
 
 Troubleshooting common issues:
 ------------------------------
@@ -102,15 +102,15 @@ Most websites use multiple types of caches that help the site to load faster. Yo
     2.  Ctrl + F5 (PC)
     
 2.  **Website hosting cache** – clear the cache that the Website product manages, by clicking the ‘Flush Cache’ button on the Website overview page.  
-    ![](/img/hosting-cache.png)
+    ![](./img/hosting-cache.png)
 
 3.  **Divi CSS cache** – Disable the Static CSS File Generation cache in your Divi Theme options > Builder > Advanced
-    ![](/img/css-cache.png)
+    ![](./img/css-cache.png)
 
 4.  **Other Cache plugins** – Ensure there are no other cache plugins activated on your website; if so, disable them.
 
 ### Google reCAPTCHA badge is in the way  
-![](/img/recapthca.png)
+![](./img/recapthca.png)
 
 When reCAPTCHA is being used on a website form, this badge will appear in the bottom right of a webpage – which could be in the way of the web chat widget.
 

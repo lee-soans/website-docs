@@ -31,9 +31,9 @@ Setting up your online store
     *   To start from scratch, add a new product to the store: click the **“Add New”** button at the top of the page. 
     *   To edit a placeholder product, simply double-click the product name and replace the existing content with your own. Scroll down to see the area where you can input the price of your product, inventory numbers, and any attributes.
 
-![](/img/add-new-product.png)
+![](./img/add-new-product.png)
 
-![](/img/product-details.png)
+![](./img/product-details.png)
 
 *   You are able to replace or upload a new product image by clicking **“Set Product Image”** on the lower right side of the page. If you’d like to add additional images, see below and click “**Add Product Gallery Images**”.
 
@@ -48,7 +48,7 @@ Setting up payments for your online store
 *   To set up the ability to take payments, hover over the WooCommerce tab in the left navigation and click “**Settings**”. 
 *   Click the **“Payments**” tab.
 
-![](/img/payment-methods.png)
+![](./img/payment-methods.png)
 
 There will be a number of options available to you. All are turned off unless you enable them, which you can do by clicking on the toggle under the Enabled column. It should turn purple once activated. After, click the “**Setup**” button to the right of the option you selected. It will take you to a page directing you to fill out the required information to fully set up the payment method.
 

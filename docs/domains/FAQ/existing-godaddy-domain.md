@@ -25,7 +25,9 @@ Part 2: Editing your DNS settings on GoDaddy
 1.  On GoDaddy, go to Domains > All Domains
 2.  Select your domain name from the list to access the **Domain Settings** page
 3.  Scroll down to **Additional Settings** and select **Manage DNS**  
-    ![](/img/dns-additional-settings.png)
+
+![](../img/dns-additional-settings.png)
+
 4.  On the **DNS Management** page, find the **Records** section
 5.  Click the pencil icon at the right side of the row with the **Name** “**@”,** make sure it is an “**A”** record, and change the value to be **_104.154.100.138_**
 6.  If you have a **www** record click the pencil icon at the right side of the row with the **Name** “**www”**, make sure it is a “**CNAME**” record and change the value to be **_host.websiteprohosting.com_**

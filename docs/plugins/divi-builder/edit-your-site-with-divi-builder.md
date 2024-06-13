@@ -30,12 +30,12 @@ Editing text and images on your website
 *   It’s time to customize your site! Let’s start with text elements. Click on the text box you’d like to edit and start making changes.
 *   Alternatively, when you hover over an element, a small dark toolbar will appear. Click on the **gear icon** to pull up a window that provides more options for editing and customization. Click on the window’s green checkmark to save any changes.
 
-![](/img/text-settings.png)
+![](./img/text-settings.png)
 
 *   This same process also works with any buttons on the page. However, as buttons have more options, you’ll need to open the editing modal to further customize it. You can do this by double-clicking the button, or opening it by clicking the gear icon in the same way that you did with the text box.
 *   Now it’s time for images! Many templates will have a large picture set as the background or banner across the top of the website. To change the image, simply hover over it (while not interfering with text or other elements) and double-click. An editing modal should pop up. Click on the “**Background”** section. Your current background image should be showing. Click the garbage can icon to delete the placeholder image and then click “**Add image**”. You can either drag the image from a file on your computer or click to browse your files. 
 
-![](/img/section-settings.png)
+![](./img/section-settings.png)
 
 *   To edit other images on the site, simply double-click the image and replace it with your own. 
 
@@ -52,7 +52,7 @@ Adding and removing elements on your website
     *   Hover over the area you’d like to add an element and click the grey “+”,
     *   Hover over the element above the spot you’d like your new element to be placed, and look for a green “+”. _You may have to actually click on the element above for it to appear_. 
 
-![](/img/elements.png)
+![](./img/elements.png)
 
 *   This will bring up an “**add row**” selector with different options as to the number of columns in your new element. Perhaps you would like three blocks of text side-by-side? Choose the row with three columns. Maybe a wide picture on the right and a narrow text box on the left? Choose the row that shows the corresponding spacing. Just want something to go straight across your entire page? Simply choose the first option available, the one with a single column.
 *   A window will appear with several different element options. Search for the **Image** option to add a picture, the **Text** option for adding text, or browse to see what other options are available.

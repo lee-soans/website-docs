@@ -12,8 +12,10 @@ Part 1: Editing your DNS settings on GoDaddy
 
 1.  On GoDaddy, go to Domains > All Domains
 2.  Select your domain name from the list to access the **Domain Settings** page
-3.  Scroll down to **Additional Settings** and select **Manage DNS  
-    **![Screenshot of the "Additional Settings" with "Manage DNS" circled.](/img/dns-additional-settings.png)
+3.  Scroll down to **Additional Settings** and select **Manage DNS**
+
+![](../img/dns-additional-settings.png)
+
 4.  On the **DNS Management** page, find the **Records** section (shown below)
 5.  For your bare domain (like “example.com”) which has a “**Name”** of **“@”**, create an “**A**” record and the value should be **_104.154.100.138_**
 6.  For a subdomain (like “www.example.com”) which has a “**Name**” of “**www**“, create a “**CNAME**” record and the value should be **_host.websiteprohosting.com_**
