@@ -10,7 +10,7 @@ sidebar_position: 1
 2.  Find the Domain Registrar’s page for managing the DNS Records of your new domain
 3.  Edit or create a DNS Record for your new domain
     *   We recommend setting a CNAME Record with a value of **_host.websiteprohosting.com_**
-    *   If you require an A Record then the value should be **_104.154.100.138_**
+    *   If you require an A Record then the value should be **_34.149.86.124_**
 
 ### Part 2: Configuring your Website Pro Site
 
@@ -32,4 +32,4 @@ You have the ability to set any of your **connected** domains to be the **Primar
 
 Website Pro’s ingress point by default goes through Google Cloud Armor to provide additional security for our traffic. If you are planning on using your own firewall, you will risk a “Too Many Redirects” error if you pass traffic through both your own firewall and Google Cloud Armor. To bypass the safety provided by Google Cloud Armor, you can direct traffic directly to the NGINX web server using the IP below for your A record on your domain.
 
-**104.154.100.138**
+**34.149.86.124**

@@ -8,7 +8,7 @@ DNS Records are an important and necessary part of of the web. You can learn mor
 To connect your domain to Website Pro, it must have either an **A Record**, or a **CNAME**:
 
 1.  **A Records**
-    * If an A Record is required then it should point to _104.154.100.138_
+    * If an A Record is required then it should point to _34.149.86.124_
 2.  **CNAME Records**
     * It is recommended that sites use a CNAME Record pointing to _host.websitepro.hosting_
 

@@ -29,7 +29,7 @@ Part 2: Editing your DNS settings on GoDaddy
 ![](../img/dns-additional-settings.png)
 
 4.  On the **DNS Management** page, find the **Records** section
-5.  Click the pencil icon at the right side of the row with the **Name** “**@”,** make sure it is an “**A”** record, and change the value to be **_104.154.100.138_**
+5.  Click the pencil icon at the right side of the row with the **Name** “**@”,** make sure it is an “**A”** record, and change the value to be **_34.149.86.124_**
 6.  If you have a **www** record click the pencil icon at the right side of the row with the **Name** “**www”**, make sure it is a “**CNAME**” record and change the value to be **_host.websiteprohosting.com_**
 7.  Click **Save** to complete the process
 8.  To encourage the DNS system on the internet to update quickly you can flush Google’s DNS cache using their [Google Public DNS Flush Cache](https://developers.google.com/speed/public-dns/cache) tool.

@@ -17,7 +17,7 @@ Part 1: Editing your DNS settings on GoDaddy
 ![](../img/dns-additional-settings.png)
 
 4.  On the **DNS Management** page, find the **Records** section (shown below)
-5.  For your bare domain (like “example.com”) which has a “**Name”** of **“@”**, create an “**A**” record and the value should be **_104.154.100.138_**
+5.  For your bare domain (like “example.com”) which has a “**Name”** of **“@”**, create an “**A**” record and the value should be **_34.149.86.124_**
 6.  For a subdomain (like “www.example.com”) which has a “**Name**” of “**www**“, create a “**CNAME**” record and the value should be **_host.websiteprohosting.com_**
 7.  Click **Save** to complete the process
 8.  To encourage the DNS system on the internet to update quickly you can flush Google’s DNS cache using their [Google Public DNS Flush Cache](https://developers.google.com/speed/public-dns/cache) tool.
