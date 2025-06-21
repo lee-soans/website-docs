@@ -3,12 +3,12 @@ import type {Config} from '@docusaurus/types';
 import type * as Preset from '@docusaurus/preset-classic';
 
 const config: Config = {
-  title: 'Website Pro Help',
-  tagline: 'Help & FAQs',
-  favicon: 'img/favicon.png',
+  title: 'Website',
+  tagline: 'Build and manage beautiful, professional websites for your clients.',
+  favicon: 'img/logo.png',
 
   // Set the production url of your site here
-  url: 'https://docs.websitepro.hosting',
+  url: 'https://docs.website.io',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: '/',
@@ -112,7 +112,7 @@ const config: Config = {
               to: '/docs/gettingstarted',
             },
           ],
-        }
+        },
       ],
       copyright: `Copyright © ${new Date().getFullYear()}`,
     },
