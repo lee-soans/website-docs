@@ -3,7 +3,7 @@ import type {Config} from '@docusaurus/types';
 import type * as Preset from '@docusaurus/preset-classic';
 
 const config: Config = {
-  title: 'Website',
+  title: 'WordPress Hosting',
   tagline: 'Build and manage beautiful, professional websites for your clients.',
   favicon: 'img/logo.png',
 
@@ -87,9 +87,9 @@ const config: Config = {
     // Replace with your project's social card
     image: 'img/docusaurus-social-card.jpg',
     navbar: {
-      title: 'Website Pro Help',
+      title: 'WordPress Hosting',
       logo: {
-        alt: 'Website Pro Logo',
+        alt: 'WorderPress Hosting Logo',
         src: 'img/website-pro.svg',
       },
       items: [

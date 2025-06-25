@@ -1,9 +1,11 @@
 {
     "label": "Analytics",
-    "position": 2,
+    "position": 5,
+    "collapsible": true,
+    "collapsed": true,
     "link": {
       "type": "generated-index",
-      "description": "How to add your own Google Analytics account"
+      "description": "Analytics for your website."
     }
 }
   
