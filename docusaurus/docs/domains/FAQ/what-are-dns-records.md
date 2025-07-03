@@ -2,14 +2,14 @@
 sidebar_position: 3
 ---
 
-# What are DNS records
+# What are DNS records?
 The Domain Name System \[DNS\] refers to a collection of standards and internet infrastructure that allows a client (like Chrome, Safari, or Edge running on your laptop).  They allow us to use an easy-to-remember domain name to represent a server address.
 
 It’s like being able to ask a Taxi Driver to take you to “the mall” instead of giving the exact street address. The Taxi Driver can look up a listing for the mall and find the address and directions.
 
 DNS records act like listings for website addresses. They are set up on NameServers, whose purpose is to answer questions about domain names. Like “where do I find mybusiness.com?”
 
-The standards are detailed and in general, require a lot of explanation. Website Pro only concerns itself with 3 kinds of records:
+The standards are detailed and in general, require a lot of explanation. WordPress Hosting only concerns itself with 3 kinds of records:
 
 1.  **A Records**
     *   The “A” stands for “Address Record”
