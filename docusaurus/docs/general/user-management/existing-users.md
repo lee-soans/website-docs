@@ -3,7 +3,7 @@ sidebar_position: 1
 ---
 
 # How to give existing WordPress users logins after import
-When you import an existing site into Website Pro, your WordPress users will not initially be able to log in. To maintain your users’ ability to log in, you have two options.
+When you import an existing site into WordPress Hosting, your WordPress users will not initially be able to log in. To maintain your users’ ability to log in, you have two options.
 
 ## Option 1
 
