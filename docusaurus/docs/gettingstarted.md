@@ -18,7 +18,7 @@ All of these templates come installed with WooCommerce and Divi Builder.
 
 - **Business Tagline**: A tagline is a short phrase or sentence that summarizes your business's mission or the services you offer. It helps visitors understand what your business does at a glance.
 
-- **Domain**: While you will be provided with a default domain hosted at `websitepro.hosting`, you have the option to customize your domain. A custom domain looks more professional and is easier for customers to remember. If you decide to use a custom domain, you'll need to register it through a domain registrar or check if it can be managed directly through your website platform.
+- **Domain**: While you will be provided with a default domain hosted at `wordpress.hosting`, you have the option to customize your domain. A custom domain looks more professional and is easier for customers to remember. If you decide to use a custom domain, you'll need to register it through a domain registrar or check if it can be managed directly through your website platform.
 
 3. **Launch your site**: Your site will be setup and when complete you will be directed to the admin dashboard. 
 
