@@ -109,7 +109,7 @@ const config: Config = {
           items: [
             {
               label: 'Getting started',
-              to: '/docs/gettingstarted',
+              to: '/docs/overview/getting-started-card',
             },
           ],
         },
