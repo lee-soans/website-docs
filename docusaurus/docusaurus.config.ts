@@ -3,7 +3,7 @@ import type {Config} from '@docusaurus/types';
 import type * as Preset from '@docusaurus/preset-classic';
 
 const config: Config = {
-  title: 'WordPress Hosting',
+  title: 'WordPress Hosting Documentation',
   tagline: 'Build and manage beautiful, professional websites for your clients.',
   favicon: 'img/logo.png',
 
@@ -43,6 +43,7 @@ const config: Config = {
       {
         docs: {
           sidebarPath: './sidebars.ts',
+          routeBasePath: '/',
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           // editUrl: 'https://github.dev/vendasta/website-docs',
@@ -87,7 +88,7 @@ const config: Config = {
     // Replace with your project's social card
     image: 'img/docusaurus-social-card.jpg',
     navbar: {
-      title: 'WordPress Hosting',
+      title: 'WordPress Hosting Documentation',
       logo: {
         alt: 'WorderPress Hosting Logo',
         src: 'img/website-pro.svg',
@@ -109,7 +110,7 @@ const config: Config = {
           items: [
             {
               label: 'Getting started',
-              to: '/docs/overview/getting-started-card',
+              to: '/overview/getting-started-card',
             },
           ],
         },

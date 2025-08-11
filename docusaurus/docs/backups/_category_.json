@@ -2,5 +2,10 @@
   "label": "Backups",
   "position": 8,
   "collapsible": true,
-  "collapsed": true
+  "collapsed": true,
+  "link": {
+    "type": "generated-index",
+    "description": "Protect your work and restore your website when needed.",
+    "slug": "/backups"
+  }
 } 

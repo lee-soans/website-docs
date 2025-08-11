@@ -2,5 +2,10 @@
   "label": "FAQs",
   "position": 20,
   "collapsible": true,
-  "collapsed": true
+  "collapsed": true,
+  "link": {
+    "type": "generated-index",
+    "description": "Quick answers to common questions.",
+    "slug": "/faqs"
+  }
 } 

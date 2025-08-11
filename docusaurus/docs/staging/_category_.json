@@ -2,5 +2,10 @@
   "label": "Staging",
   "position": 9,
   "collapsible": true,
-  "collapsed": true
+  "collapsed": true,
+  "link": {
+    "type": "generated-index",
+    "description": "Test changes safely before publishing them live.",
+    "slug": "/staging"
+  }
 } 
