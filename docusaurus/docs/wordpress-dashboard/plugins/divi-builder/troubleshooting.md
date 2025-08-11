@@ -1,7 +1,3 @@
----
-sidebar_position: 2
----
-
 # CSS changes not updating
 
 ## Problem

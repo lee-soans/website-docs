@@ -1,7 +1,3 @@
----
-sidebar_position: 1
----
-
 # Inbox Pro web chat widget installation and troubleshooting
 With AI-assisted web chat, businesses can capture more leads from their website.  An AI assistant will chat live with a website visitor, capture their contact information so a business can follow up later via SMS or email, and turn them into a customer. AI-assisted web chat is a feature of Inbox Pro product. Contact your sales rep today to have the widget activated for your website.
 

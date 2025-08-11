@@ -1,7 +1,3 @@
----
-sidebar_position: 3
----
-
 # How to create new WordPress users with WordPress Hosting 
 To create WordPress users using WordPress Hosting, you must create a Business Center user and a WordPress user will get automatically created. Users are identified by email address. The Business Center email used will be the one associated with their WordPress login. All users created in Business Center will be assigned the Administrator role in WordPress by default. If you have existing WordPress users, they will need Business Center users created the **same emails** to be able to log in.
 

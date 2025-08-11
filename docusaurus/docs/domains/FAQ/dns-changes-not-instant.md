@@ -1,7 +1,3 @@
----
-sidebar_position: 4
----
-
 # Why are DNS Record changes not instant?
 [Domain Name System (DNS) records](./what-are-dns-records.md) are used by the infrastructure of the internet to send data through the correct paths i.e. data from your website to the customer on a website.
 

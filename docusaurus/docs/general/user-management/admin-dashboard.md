@@ -1,7 +1,3 @@
----
-sidebar_position: 4
----
-
 # How does WordPress Hosting log me in to the WordPress Dashboard?
 WordPress Hosting provides a secure login to the WordPress Admin Dashboard (simply by clicking on the “WordPress Dashboard” button on the Overview page) to make your site safer and easier to use.
 

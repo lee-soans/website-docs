@@ -1,7 +1,3 @@
----
-sidebar_position: 3
----
-
 # What are DNS records?
 The Domain Name System \[DNS\] refers to a collection of standards and internet infrastructure that allows a client (like Chrome, Safari, or Edge running on your laptop).  They allow us to use an easy-to-remember domain name to represent a server address.
 
