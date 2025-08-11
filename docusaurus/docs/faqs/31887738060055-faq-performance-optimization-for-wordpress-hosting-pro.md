@@ -2,12 +2,6 @@
 title: "FAQ: Performance & Optimization for WordPress Hosting Pro"
 sidebar_label: "FAQ: Performance & Optimization for WordPress Hosting Pro"
 description: "Your website’s speed and reliability directly impact user experience and SEO. This FAQ answers common questions about caching, page speed, image optimization,"
-zendesk_id: 31887738060055
-zendesk_url: "https://support.vendasta.com/hc/en-us/articles/31887738060055-FAQ-Performance-Optimization-for-WordPress-Hosting-Pro"
-updated_at: "2025-06-03T14:56:36Z"
-labels: ["css", "cdn", "wordpress", "cache", "divi", "website pro", "website optimization", "website performance", "bounce rate"]
-section_id: 4420358256279
-locale: "en-us"
 ---
 
 Your website’s speed and reliability directly impact user experience and SEO. This FAQ answers common questions about caching, page speed, image optimization, content delivery, and why some visual updates may not appear immediately.

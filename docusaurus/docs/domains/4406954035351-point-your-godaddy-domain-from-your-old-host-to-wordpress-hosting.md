@@ -2,12 +2,6 @@
 title: "Point your GoDaddy domain from your old host to WordPress Hosting"
 sidebar_label: "Point your GoDaddy domain from your old host to WordPress Hosting"
 description: "If your domain is currently pointing to a site on another host, then these instructions should allow you to point your domain to your WordPress Hosting Pro sit"
-zendesk_id: 4406954035351
-zendesk_url: "https://support.vendasta.com/hc/en-us/articles/4406954035351-Point-your-GoDaddy-domain-from-your-old-host-to-WordPress-Hosting"
-updated_at: "2025-05-21T13:00:08Z"
-labels: ["cname", "godaddy", "domains", "websitepro"]
-section_id: 27570129178007
-locale: "en-us"
 ---
 
 If your domain is currently pointing to a site on another host, then these instructions should allow you to point your domain to your WordPress Hosting Pro site, with zero downtime. These less specific [Domain Transfer Instructions](https://help.websitepro.hosting/?p=421) might be more helpful if your [DNS records](https://help.websitepro.hosting/?p=10) are not managed in GoDaddy. Follow these [new domain connection instructions](https://help.websitepro.hosting/?p=394) if you are not transferring your domain from a previous host.

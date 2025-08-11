@@ -2,12 +2,6 @@
 title: "Product Details - WordPress Hosting Pro"
 sidebar_label: "Product Details - WordPress Hosting Pro"
 description: "Google-fast WordPress sites \n   \n  Hosting websites can be time-consuming, and stressful, and often requires the expertise of trained technical people. Moreove"
-zendesk_id: 4406958669591
-zendesk_url: "https://support.vendasta.com/hc/en-us/articles/4406958669591-Product-Details-WordPress-Hosting-Pro"
-updated_at: "2025-05-21T13:00:08Z"
-labels: []
-section_id: 27570064888343
-locale: "en-us"
 ---
 
 ### Google-fast WordPress sites

@@ -1,7 +1,3 @@
----
-sidebar_position: 2
----
-
 # How to change WordPress user roles
 To change a user’s WordPress role (from Administrator) you have two options.
 

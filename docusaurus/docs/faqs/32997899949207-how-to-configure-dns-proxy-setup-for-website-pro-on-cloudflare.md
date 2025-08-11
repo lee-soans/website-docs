@@ -2,12 +2,6 @@
 title: "How to Configure DNS Proxy Setup for Website Pro on Cloudflare"
 sidebar_label: "How to Configure DNS Proxy Setup for Website Pro on Cloudflare"
 description: "If you're using WordPress Hosting Pro and want to configure your DNS settings on Cloudflare for optimized performance and security, follow the steps be"
-zendesk_id: 32997899949207
-zendesk_url: "https://support.vendasta.com/hc/en-us/articles/32997899949207-How-to-Configure-DNS-Proxy-Setup-for-Website-Pro-on-Cloudflare"
-updated_at: "2025-06-23T18:27:04Z"
-labels: ["DNS", "proxy"]
-section_id: 4420358256279
-locale: "en-us"
 ---
 
 If you're using WordPress Hosting Pro and want to configure your DNS settings on Cloudflare for optimized performance and security, follow the steps below.

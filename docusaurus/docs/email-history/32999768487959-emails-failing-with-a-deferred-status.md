@@ -2,12 +2,6 @@
 title: "Emails failing with a \"Deferred\" status"
 sidebar_label: "Emails failing with a \"Deferred\" status"
 description: "A deferred event, or deferral, is simply an event SendGrid has received back from the receiving server:  \n \n  What does it tell us?  \n \n   That the receiving"
-zendesk_id: 32999768487959
-zendesk_url: "https://support.vendasta.com/hc/en-us/articles/32999768487959-Emails-failing-with-a-Deferred-status"
-updated_at: "2025-06-23T19:27:12Z"
-labels: ["deferred"]
-section_id: 27570153018647
-locale: "en-us"
 ---
 
 A deferred event, or deferral, is simply an event SendGrid has received back from the receiving server:

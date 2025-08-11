@@ -1,7 +1,3 @@
----
-sidebar_position: 1
----
-
 # Edit your site with Divi Builder
 Getting your business up and selling is possible with Website Pro. This powerful product allows you to quickly and easily create a website and online store powered by WordPress and WooCommerce. To make the transition to ecommerce seamless, we also have a visual builder, called Divi Builder, within every Website Pro account. This allows you to design and create beautiful websites without having to write a single line of code. 
 

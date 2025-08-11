@@ -2,12 +2,6 @@
 title: "FAQ: Hosting Environment, PHP, and Scalability in WordPress Hosting Pro"
 sidebar_label: "FAQ: Hosting Environment, PHP, and Scalability in WordPress Hosting Pro"
 description: "This article answers frequently asked technical questions about the infrastructure, server behavior, and performance capabilities of Vendasta’s WordPress Hosti"
-zendesk_id: 32160223564439
-zendesk_url: "https://support.vendasta.com/hc/en-us/articles/32160223564439-FAQ-Hosting-Environment-PHP-and-Scalability-in-WordPress-Hosting-Pro"
-updated_at: "2025-05-22T15:22:35Z"
-labels: ["faq", "website", "website pro", "wordpress hosting"]
-section_id: 4420358256279
-locale: "en-us"
 ---
 
 This article answers frequently asked technical questions about the infrastructure, server behavior, and performance capabilities of Vendasta’s WordPress Hosting Pro product.

@@ -2,12 +2,6 @@
 title: "View Divi form submissions in WordPress"
 sidebar_label: "View Divi form submissions in WordPress"
 description: "Where can I access form submissions? \n Once the plugin is activated, a new menu item called  \"Divi Form DB\"  will appear in the WordPress dashboard. \n How do I"
-zendesk_id: 29595537831575
-zendesk_url: "https://support.vendasta.com/hc/en-us/articles/29595537831575-View-Divi-form-submissions-in-WordPress"
-updated_at: "2025-06-03T15:00:21Z"
-labels: ["divi", "website pro", "forms", "wordpress hosting", "website form"]
-section_id: 27570091751191
-locale: "en-us"
 ---
 
 ### Where can I access form submissions?

@@ -2,12 +2,6 @@
 title: "Business Profile and Website Sync"
 sidebar_label: "Business Profile and Website Sync"
 description: "Vendasta has made it easier to update business information on your website created with WordPress Hosting Standard or Pro.   \n  If a user selects one of Venda"
-zendesk_id: 5577552611095
-zendesk_url: "https://support.vendasta.com/hc/en-us/articles/5577552611095-Business-Profile-and-Website-Sync"
-updated_at: "2025-06-03T15:01:51Z"
-labels: ["website", "website sync"]
-section_id: 27570091751191
-locale: "en-us"
 ---
 
 Vendasta has made it easier to update business information on your website created with WordPress Hosting Standard or Pro. 

@@ -2,12 +2,6 @@
 title: "See changes on your site instantly with new caching tools"
 sidebar_label: "See changes on your site instantly with new caching tools"
 description: "WordPress Hosting users can clear their site cache manually. This ensures updates and changes show up instantly to site visitors.  \n More on caching \n  WordPr"
-zendesk_id: 4406957286807
-zendesk_url: "https://support.vendasta.com/hc/en-us/articles/4406957286807-See-changes-on-your-site-instantly-with-new-caching-tools"
-updated_at: "2025-05-21T13:00:01Z"
-labels: []
-section_id: 27570215364631
-locale: "en-us"
 ---
 
 WordPress Hosting users can clear their site cache manually. This ensures updates and changes show up instantly to site visitors.

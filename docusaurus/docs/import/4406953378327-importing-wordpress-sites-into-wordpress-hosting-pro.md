@@ -2,12 +2,6 @@
 title: "Importing WordPress sites into WordPress Hosting Pro"
 sidebar_label: "Importing WordPress sites into WordPress Hosting Pro"
 description: "To import your WordPress sites into WordPress Hosting Pro, follow these steps:  \n  1. Create an Account  \n  Go to the   Accounts   tab in Partner Center and c"
-zendesk_id: 4406953378327
-zendesk_url: "https://support.vendasta.com/hc/en-us/articles/4406953378327-Importing-WordPress-sites-into-WordPress-Hosting-Pro"
-updated_at: "2025-05-21T13:00:07Z"
-labels: []
-section_id: 27570081739287
-locale: "en-us"
 ---
 
 To import your WordPress sites into WordPress Hosting Pro, follow these steps:

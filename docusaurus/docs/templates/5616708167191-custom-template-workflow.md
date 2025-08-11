@@ -2,12 +2,6 @@
 title: "Custom Template Workflow"
 sidebar_label: "Custom Template Workflow"
 description: "Partners can create and manage custom templates for all of their website accounts through the Templates tab in the  WordPress Hosting   Standard /Pro/Premium"
-zendesk_id: 5616708167191
-zendesk_url: "https://support.vendasta.com/hc/en-us/articles/5616708167191-Custom-Template-Workflow"
-updated_at: "2025-06-03T16:43:09Z"
-labels: ["template", "website", "website pro", "website express"]
-section_id: 27570186729239
-locale: "en-us"
 ---
 
 Partners can create and manage custom templates for all of their website accounts through the Templates tab in the WordPress Hosting Standard/Pro/Premium product.

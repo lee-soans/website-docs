@@ -2,12 +2,6 @@
 title: "Add a Custom 404 Page in WordPress"
 sidebar_label: "Add a Custom 404 Page in WordPress"
 description: "A custom  404 error page  improves user experience by guiding visitors who land on a broken or non-existent page. Instead of showing a generic error, you can r"
-zendesk_id: 33000567295639
-zendesk_url: "https://support.vendasta.com/hc/en-us/articles/33000567295639-Add-a-Custom-404-Page-in-WordPress"
-updated_at: "2025-06-23T19:49:33Z"
-labels: ["404", "WordPress"]
-section_id: 27570091751191
-locale: "en-us"
 ---
 
 A custom **404 error page** improves user experience by guiding visitors who land on a broken or non-existent page. Instead of showing a generic error, you can redirect them to helpful content, search options, or your homepage.

@@ -2,12 +2,6 @@
 title: "Captcha’s, reCaptcha’s and Advanced Login (Using /wp-admin page)"
 sidebar_label: "Captcha’s, reCaptcha’s and Advanced Login (Using /wp-admin page)"
 description: "If the Advanced Login feature is enabled, logging into the WordPress dashboard from Partner Center or Business App could be affected if a reCaptcha is set up o"
-zendesk_id: 4406961332887
-zendesk_url: "https://support.vendasta.com/hc/en-us/articles/4406961332887-Captcha-s-reCaptcha-s-and-Advanced-Login-Using-wp-admin-page"
-updated_at: "2025-06-03T16:44:29Z"
-labels: ["wp-admin", "captcha", "recaptcha", "advanced login", "partner centre", "business app"]
-section_id: 27570215364631
-locale: "en-us"
 ---
 
 If the Advanced Login feature is enabled, logging into the WordPress dashboard from Partner Center or Business App could be affected if a reCaptcha is set up on the WordPress login page.

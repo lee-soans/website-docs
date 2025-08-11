@@ -2,12 +2,6 @@
 title: "WordPress Hosting Staging Environment"
 sidebar_label: "WordPress Hosting Staging Environment"
 description: "WordPress Hosting  accounts can create a staging environment for their websites, make the necessary changes in the staging environment, and push the change to"
-zendesk_id: 4406961488151
-zendesk_url: "https://support.vendasta.com/hc/en-us/articles/4406961488151-WordPress-Hosting-Staging-Environment"
-updated_at: "2025-06-23T18:32:39Z"
-labels: ["website", "backups", "websitepro", "staging"]
-section_id: 27570116222999
-locale: "en-us"
 ---
 
 **WordPress Hosting** accounts can create a staging environment for their websites, make the necessary changes in the staging environment, and push the change to production with minimum downtime. Standard accounts can only edit their production websites directly. A staging site is separate from the production site, and you can even import All-In-One and WordPress Hosting backups to a staging environment.

@@ -2,12 +2,6 @@
 title: "500 Error when Logging In to WordPress Admin (Jetpack)"
 sidebar_label: "500 Error when Logging In to WordPress Admin (Jetpack)"
 description: "Since WordPress Hosting Pro does not support logins from other sources, Jetpack settings can conflict with the system and cause a 500 error upon entering the W"
-zendesk_id: 4406961633303
-zendesk_url: "https://support.vendasta.com/hc/en-us/articles/4406961633303-500-Error-when-Logging-In-to-WordPress-Admin-Jetpack"
-updated_at: "2025-05-21T13:00:03Z"
-labels: ["website", "jetpack", "websitepro"]
-section_id: 27570091751191
-locale: "en-us"
 ---
 
 Since WordPress Hosting Pro does not support logins from other sources, Jetpack settings can conflict with the system and cause a 500 error upon entering the WordPress Admin Dashboard.

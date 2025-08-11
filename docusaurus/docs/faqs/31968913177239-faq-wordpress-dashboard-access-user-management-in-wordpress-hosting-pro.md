@@ -2,12 +2,6 @@
 title: "FAQ: WordPress Dashboard Access & User Management in WordPress Hosting Pro"
 sidebar_label: "FAQ: WordPress Dashboard Access & User Management in WordPress Hosting Pro"
 description: "This article covers the most frequently asked questions about accessing the WordPress Dashboard through WordPress Hosting Pro, managing user roles, and underst"
-zendesk_id: 31968913177239
-zendesk_url: "https://support.vendasta.com/hc/en-us/articles/31968913177239-FAQ-WordPress-Dashboard-Access-User-Management-in-WordPress-Hosting-Pro"
-updated_at: "2025-06-03T14:50:00Z"
-labels: ["wordpress", "website", "website pro", "htaccess", "robots.txt", "wordpress hosting", "wordpress login", "wordpress user"]
-section_id: 4420358256279
-locale: "en-us"
 ---
 
 This article covers the most frequently asked questions about accessing the WordPress Dashboard through WordPress Hosting Pro, managing user roles, and understanding access to server-level files like `.htaccess` and `robots.txt`.

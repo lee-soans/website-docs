@@ -1,7 +1,3 @@
----
-sidebar_position: 5
----
-
 # How to connect a CloudFlare Managed Domain?
 Cloudflare is a very popular and useful service at both paid and free subscription levels. Some businesses or agencies use it as a Content Delivery Network (CDN) to cache static files and get their site loading faster, others just prefer to have a single nameserver to manage their Domain Name System (DNS) configurations.
 

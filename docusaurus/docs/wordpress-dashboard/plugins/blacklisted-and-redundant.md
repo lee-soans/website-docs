@@ -1,7 +1,3 @@
----
-sidebar_position: 3
----
-
 # Blacklisted and Redundant Plugins
 Today, there are thousands of plugins available for WordPress sites and most of them will work with Website Pro seamlessly. In fact, Website Pro does not prevent users from installing any plugins. However, some plugins have functionality that interferes with the operation of your site in the Website Pro ecosystem. Such plugins could not jive for a couple of reasons. Though most often, it is because they provide duplicate (or the same) functionality that is already provided by Website Pro. These plugins include, but are not limited to:
 

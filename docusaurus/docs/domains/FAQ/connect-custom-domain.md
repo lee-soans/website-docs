@@ -1,7 +1,3 @@
----
-sidebar_position: 1
----
-
 # How to connect a custom domain?
 
 ### Part 1: Your domain and its Records

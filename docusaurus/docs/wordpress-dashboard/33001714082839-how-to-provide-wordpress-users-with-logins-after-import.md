@@ -2,12 +2,6 @@
 title: "How to Provide WordPress Users with Logins After Import"
 sidebar_label: "How to Provide WordPress Users with Logins After Import"
 description: "When an existing WordPress site is imported into WordPress Hosting, the users from the original site won’t automatically retain their login access. To restore"
-zendesk_id: 33001714082839
-zendesk_url: "https://support.vendasta.com/hc/en-us/articles/33001714082839-How-to-Provide-WordPress-Users-with-Logins-After-Import"
-updated_at: "2025-06-23T20:17:28Z"
-labels: ["login", "WordPress"]
-section_id: 27570091751191
-locale: "en-us"
 ---
 
 When an existing WordPress site is imported into WordPress Hosting, the users from the original site won’t automatically retain their login access. To restore their ability to log in, you have two options:

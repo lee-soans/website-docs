@@ -2,12 +2,6 @@
 title: "WordPress Hosting Pro Security: Comprehensive Protection for Your WordPress Site"
 sidebar_label: "WordPress Hosting Pro Security: Comprehensive Protection for Your WordPress Site"
 description: "Overview \n WordPress Hosting Pro hosting on Google Cloud Platform (GCP) is designed to provide high performance, security, and reliability. This article highli"
-zendesk_id: 32128818308887
-zendesk_url: "https://support.vendasta.com/hc/en-us/articles/32128818308887-WordPress-Hosting-Pro-Security-Comprehensive-Protection-for-Your-WordPress-Site"
-updated_at: "2025-06-23T17:46:31Z"
-labels: ["website", "wordpress hosting"]
-section_id: 27570064888343
-locale: "en-us"
 ---
 
 ### Overview

@@ -2,12 +2,6 @@
 title: "Set up your domain"
 sidebar_label: "Set up your domain"
 description: "To set up your domain for WordPress Hosting, there are two records you’ll need to change.        A record:   This allows you to point your root domain to your"
-zendesk_id: 4406960969495
-zendesk_url: "https://support.vendasta.com/hc/en-us/articles/4406960969495-Set-up-your-domain"
-updated_at: "2025-05-21T13:00:07Z"
-labels: ["cname", "DMARC", "website", "domain", "domains"]
-section_id: 27570129178007
-locale: "en-us"
 ---
 
 To set up your domain for WordPress Hosting, there are two records you’ll need to change.  

@@ -2,12 +2,6 @@
 title: "Reset Your WordPress Website Using a Plugin"
 sidebar_label: "Reset Your WordPress Website Using a Plugin"
 description: "Resetting your WordPress site is quick and easy with the WP Reset plugin. Follow these steps to get a clean slate: \n \n \n Install the Plugin : Go to your WordPr"
-zendesk_id: 33001688626583
-zendesk_url: "https://support.vendasta.com/hc/en-us/articles/33001688626583-Reset-Your-WordPress-Website-Using-a-Plugin"
-updated_at: "2025-06-23T20:16:20Z"
-labels: ["reset site"]
-section_id: 27570091751191
-locale: "en-us"
 ---
 
 Resetting your WordPress site is quick and easy with the WP Reset plugin. Follow these steps to get a clean slate:

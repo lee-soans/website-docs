@@ -2,12 +2,6 @@
 title: "FAQ: Domains, DNS & SSL for WordPress Hosting Pro"
 sidebar_label: "FAQ: Domains, DNS & SSL for WordPress Hosting Pro"
 description: "Q: What are DNS Records? \n The  Domain Name System (DNS)  is a collection of standards and infrastructure that allows internet clients (like Chrome, Safari, or"
-zendesk_id: 31886072929047
-zendesk_url: "https://support.vendasta.com/hc/en-us/articles/31886072929047-FAQ-Domains-DNS-SSL-for-WordPress-Hosting-Pro"
-updated_at: "2025-06-23T17:33:05Z"
-labels: ["dns", "website", "domains", "ssl", "website pro"]
-section_id: 4420358256279
-locale: "en-us"
 ---
 
 ### Q: What are DNS Records?

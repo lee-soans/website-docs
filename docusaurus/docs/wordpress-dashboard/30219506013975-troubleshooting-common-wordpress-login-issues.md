@@ -2,12 +2,6 @@
 title: "Troubleshooting Common WordPress Login Issues"
 sidebar_label: "Troubleshooting Common WordPress Login Issues"
 description: "Logging into your WordPress site should be simple, but sometimes issues arise that prevent access. Here are some common login problems and how to fix them."
-zendesk_id: 30219506013975
-zendesk_url: "https://support.vendasta.com/hc/en-us/articles/30219506013975-Troubleshooting-Common-WordPress-Login-Issues"
-updated_at: "2025-05-20T21:21:46Z"
-labels: ["wordpress", "wordpress login"]
-section_id: 27570091751191
-locale: "en-us"
 ---
 
 Logging into your WordPress site should be simple, but sometimes issues arise that prevent access. Here are some common login problems and how to fix them.

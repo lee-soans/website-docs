@@ -2,12 +2,6 @@
 title: "Install/Import an Envato Theme on WordPress"
 sidebar_label: "Install/Import an Envato Theme on WordPress"
 description: "How to download your theme \n \n  All your items are available for you to download via your download page.  \n \n  On the Envato Elements home page, hover over the"
-zendesk_id: 33001921905815
-zendesk_url: "https://support.vendasta.com/hc/en-us/articles/33001921905815-Install-Import-an-Envato-Theme-on-WordPress"
-updated_at: "2025-06-23T20:23:00Z"
-labels: ["Envato"]
-section_id: 27570091751191
-locale: "en-us"
 ---
 
 ### How to download your theme

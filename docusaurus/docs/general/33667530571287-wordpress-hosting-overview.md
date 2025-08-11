@@ -2,12 +2,6 @@
 title: "WordPress Hosting Overview"
 sidebar_label: "WordPress Hosting Overview"
 description: "Vendasta’s WordPress Hosting product enables Partners to offer fast, secure, and customizable websites to clients of all sizes—from small businesses just getti"
-zendesk_id: 33667530571287
-zendesk_url: "https://support.vendasta.com/hc/en-us/articles/33667530571287-WordPress-Hosting-Overview"
-updated_at: "2025-07-23T17:53:26Z"
-labels: ["plugins", "wordpress hosting", "WordPress"]
-section_id: 4420369819927
-locale: "en-us"
 ---
 
 Vendasta’s WordPress Hosting product enables Partners to offer fast, secure, and customizable websites to clients of all sizes—from small businesses just getting started online to agencies managing dozens of sites. Built on Google Cloud Platform, it delivers reliable hosting, built-in eCommerce, robust performance, and easy-to-use visual tools.

@@ -2,12 +2,6 @@
 title: "Understanding WordPress Multisite Structures"
 sidebar_label: "Understanding WordPress Multisite Structures"
 description: "WordPress Multisite: Subdirectory vs. Subdomain Setup:   WordPress Multisite allows you to create multiple sites under one installation. The two primary ways"
-zendesk_id: 33643485399447
-zendesk_url: "https://support.vendasta.com/hc/en-us/articles/33643485399447-Understanding-WordPress-Multisite-Structures"
-updated_at: "2025-07-22T18:55:05Z"
-labels: []
-section_id: 27570091751191
-locale: "en-us"
 ---
 
 ### **WordPress Multisite: Subdirectory vs. Subdomain Setup:**

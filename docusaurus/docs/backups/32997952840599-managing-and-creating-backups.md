@@ -2,12 +2,6 @@
 title: "Managing and Creating Backups"
 sidebar_label: "Managing and Creating Backups"
 description: "The WordPress Hosting Pro Dashboard offers a robust backup system, empowering users to protect their digital assets efficiently. This article delves into the m"
-zendesk_id: 32997952840599
-zendesk_url: "https://support.vendasta.com/hc/en-us/articles/32997952840599-Managing-and-Creating-Backups"
-updated_at: "2025-06-23T18:30:01Z"
-labels: ["backups"]
-section_id: 27570120858519
-locale: "en-us"
 ---
 
 The WordPress Hosting Pro Dashboard offers a robust backup system, empowering users to protect their digital assets efficiently. This article delves into the mechanics of creating backups from the Website Pro Dashboard, highlighting its importance and providing a straightforward, step-by-step guide.

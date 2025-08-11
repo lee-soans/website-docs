@@ -2,12 +2,6 @@
 title: "How to Customize Your WordPress Theme Without Coding"
 sidebar_label: "How to Customize Your WordPress Theme Without Coding"
 description: "Customizing your WordPress theme doesn’t have to involve complex coding. WordPress provides powerful tools that allow you to tweak your website’s appearance ef"
-zendesk_id: 28883800730135
-zendesk_url: "https://support.vendasta.com/hc/en-us/articles/28883800730135-How-to-Customize-Your-WordPress-Theme-Without-Coding"
-updated_at: "2025-05-20T21:03:01Z"
-labels: ["wordpress"]
-section_id: 27570091751191
-locale: "en-us"
 ---
 
 Customizing your WordPress theme doesn’t have to involve complex coding. WordPress provides powerful tools that allow you to tweak your website’s appearance effortlessly. Here's how you can get started:

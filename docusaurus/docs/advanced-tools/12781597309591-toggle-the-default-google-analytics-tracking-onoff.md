@@ -2,12 +2,6 @@
 title: "Toggle the Default Google Analytics Tracking On/Off"
 sidebar_label: "Toggle the Default Google Analytics Tracking On/Off"
 description: "Even though Google has made some efforts to be GDPR compliant with the release of Google Analytics 4 (GA4), it is generally accepted that both Universal Analyt"
-zendesk_id: 12781597309591
-zendesk_url: "https://support.vendasta.com/hc/en-us/articles/12781597309591-Toggle-the-Default-Google-Analytics-Tracking-On-Off"
-updated_at: "2025-05-21T13:00:01Z"
-labels: ["website pro"]
-section_id: 27570215364631
-locale: "en-us"
 ---
 
 Even though Google has made some efforts to be GDPR compliant with the release of Google Analytics 4 (GA4), it is generally accepted that both Universal Analytics and GA4 are not GDPR compliant with their default settings. To ensure that our partners always have a way to show proof of performance to their clients, all websites that are created with WordPress Hosting come with a default Google Analytics tracking code even if our partners do not add their own Google Analytics account.

@@ -2,12 +2,6 @@
 title: "Install NitroPack on WordPress"
 sidebar_label: "Install NitroPack on WordPress"
 description: "Here is the step-by-step guide on how to install NitroPack on WordPress:  \n \n \n  Login to your   WordPress admin   dashboard and go to     Plugins &gt; Add ne"
-zendesk_id: 29661864746903
-zendesk_url: "https://support.vendasta.com/hc/en-us/articles/29661864746903-Install-NitroPack-on-WordPress"
-updated_at: "2025-05-20T21:15:14Z"
-labels: ["nitropack"]
-section_id: 27570091751191
-locale: "en-us"
 ---
 
 Here is the step-by-step guide on how to install NitroPack on WordPress:

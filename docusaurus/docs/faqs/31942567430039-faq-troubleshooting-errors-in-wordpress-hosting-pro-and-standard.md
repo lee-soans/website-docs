@@ -2,12 +2,6 @@
 title: "FAQ: Troubleshooting & Errors in WordPress Hosting Pro and Standard"
 sidebar_label: "FAQ: Troubleshooting & Errors in WordPress Hosting Pro and Standard"
 description: "WordPress Hosting Pro offers a robust hosting platform, but certain plugin behaviors or configuration mismatches can lead to errors. This article addresses the"
-zendesk_id: 31942567430039
-zendesk_url: "https://support.vendasta.com/hc/en-us/articles/31942567430039-FAQ-Troubleshooting-Errors-in-WordPress-Hosting-Pro-and-Standard"
-updated_at: "2025-05-21T13:00:06Z"
-labels: ["error", "website", "troubleshooting", "memory limit", "storage engine", "404", "wordpress hosting", "access denied"]
-section_id: 4420358256279
-locale: "en-us"
 ---
 
 WordPress Hosting Pro offers a robust hosting platform, but certain plugin behaviors or configuration mismatches can lead to errors. This article addresses the most common issues faced by users and how to resolve them using safe and supported methods.

@@ -2,12 +2,6 @@
 title: "Hide Vendasta's pre-built templates from clients"
 sidebar_label: "Hide Vendasta's pre-built templates from clients"
 description: "To prevent your clients from accessing the pre-built templates included in the initial  WordPress Hosting  setup, follow these simple steps: \n \n Go to the  Pro"
-zendesk_id: 28760299656087
-zendesk_url: "https://support.vendasta.com/hc/en-us/articles/28760299656087-Hide-Vendasta-s-pre-built-templates-from-clients"
-updated_at: "2025-06-03T16:03:54Z"
-labels: ["templates"]
-section_id: 27570186729239
-locale: "en-us"
 ---
 
 To prevent your clients from accessing the pre-built templates included in the initial WordPress Hosting setup, follow these simple steps:

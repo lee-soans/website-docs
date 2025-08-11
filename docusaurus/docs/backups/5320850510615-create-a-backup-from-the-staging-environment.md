@@ -2,12 +2,6 @@
 title: "Create a backup from the staging environment"
 sidebar_label: "Create a backup from the staging environment"
 description: "WordPress Hosting users can create a backup from the staging environment. Users can make their website creation process smoother than ever before with the flex"
-zendesk_id: 5320850510615
-zendesk_url: "https://support.vendasta.com/hc/en-us/articles/5320850510615-Create-a-backup-from-the-staging-environment"
-updated_at: "2025-06-03T15:59:20Z"
-labels: ["website", "backups", "website pro"]
-section_id: 27570120858519
-locale: "en-us"
 ---
 
 WordPress Hosting users can create a backup from the staging environment. Users can make their website creation process smoother than ever before with the flexibility to save and restore the staging environment.

@@ -2,12 +2,6 @@
 title: "Point a new Domain to WordPress Hosting"
 sidebar_label: "Point a new Domain to WordPress Hosting"
 description: "If you recently purchased the domain (or just have never pointed your domain to a site), then these instructions should allow you to point your domain to your"
-zendesk_id: 4406961569559
-zendesk_url: "https://support.vendasta.com/hc/en-us/articles/4406961569559-Point-a-new-Domain-to-WordPress-Hosting"
-updated_at: "2025-05-21T13:00:08Z"
-labels: ["website", "domain", "domains", "websitepro"]
-section_id: 27570129178007
-locale: "en-us"
 ---
 
 If you recently purchased the domain (or just have never pointed your domain to a site), then these instructions should allow you to point your domain to your WordPress Hosting Pro site. Follow these more specific [GoDaddy Domain connection Instructions](https://help.websitepro.hosting/?p=394) if your [DNS records](https://help.websitepro.hosting/?p=10) are managed in GoDaddy.

@@ -2,12 +2,6 @@
 title: "Fixing WordPress 404 Errors on Posts"
 sidebar_label: "Fixing WordPress 404 Errors on Posts"
 description: "Fixing WordPress 404 Errors on Posts  \n \n If you're encountering 404 errors on your WordPress posts, here are a few steps you can take to resolve the issue:"
-zendesk_id: 33001665602583
-zendesk_url: "https://support.vendasta.com/hc/en-us/articles/33001665602583-Fixing-WordPress-404-Errors-on-Posts"
-updated_at: "2025-06-23T20:14:15Z"
-labels: ["404", "WordPress"]
-section_id: 27570091751191
-locale: "en-us"
 ---
 
 **Fixing WordPress 404 Errors on Posts**

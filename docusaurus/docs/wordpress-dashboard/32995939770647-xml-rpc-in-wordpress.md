@@ -2,12 +2,6 @@
 title: "XML-RPC in WordPress"
 sidebar_label: "XML-RPC in WordPress"
 description: "When managing a WordPress website, you might come across the term  XML-RPC . But what exactly is it, and why would you need it enabled for your site? In this a"
-zendesk_id: 32995939770647
-zendesk_url: "https://support.vendasta.com/hc/en-us/articles/32995939770647-XML-RPC-in-WordPress"
-updated_at: "2025-06-23T17:24:49Z"
-labels: ["WordPress", "XML-RPC"]
-section_id: 27570091751191
-locale: "en-us"
 ---
 
 When managing a WordPress website, you might come across the term **XML-RPC**. But what exactly is it, and why would you need it enabled for your site? In this article, we'll break down the basics of **XML-RPC**, its uses, and how it fits into your WordPress setup—especially on **WordPress Hosting Pro**.

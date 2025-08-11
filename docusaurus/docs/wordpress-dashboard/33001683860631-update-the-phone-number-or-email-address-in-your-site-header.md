@@ -2,12 +2,6 @@
 title: "Update the Phone Number or Email Address in Your Site Header"
 sidebar_label: "Update the Phone Number or Email Address in Your Site Header"
 description: "How to Update the Phone Number or Email Address in Your Site Header  \n       \n To make changes to the contact details displayed in your website’s header, fo"
-zendesk_id: 33001683860631
-zendesk_url: "https://support.vendasta.com/hc/en-us/articles/33001683860631-Update-the-Phone-Number-or-Email-Address-in-Your-Site-Header"
-updated_at: "2025-06-23T20:15:22Z"
-labels: ["WordPress"]
-section_id: 27570091751191
-locale: "en-us"
 ---
 
 **How to Update the Phone Number or Email Address in Your Site Header**

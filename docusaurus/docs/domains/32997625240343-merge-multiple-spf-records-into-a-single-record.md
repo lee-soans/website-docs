@@ -2,12 +2,6 @@
 title: "Merge multiple SPF records into a single record"
 sidebar_label: "Merge multiple SPF records into a single record"
 description: "To merge the SPF values, simply include all the parts into one single record, without repeating any mechanisms. Here's how to merge the following example SPF"
-zendesk_id: 32997625240343
-zendesk_url: "https://support.vendasta.com/hc/en-us/articles/32997625240343-Merge-multiple-SPF-records-into-a-single-record"
-updated_at: "2025-06-23T18:18:31Z"
-labels: ["SPF"]
-section_id: 27570129178007
-locale: "en-us"
 ---
 
 To merge the SPF values, simply include all the parts into one single record, without repeating any mechanisms. Here's how to merge the following example SPF records for Outlook and MailerLite:

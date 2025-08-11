@@ -2,12 +2,6 @@
 title: "Activity Logs in WordPress Hosting Pro"
 sidebar_label: "Activity Logs in WordPress Hosting Pro"
 description: "The  Activity Logs  feature in WordPress Hosting Pro helps users track actions performed on their  staging site . It provides a record of significant activitie"
-zendesk_id: 32999976946583
-zendesk_url: "https://support.vendasta.com/hc/en-us/articles/32999976946583-Activity-Logs-in-WordPress-Hosting-Pro"
-updated_at: "2025-06-23T19:33:03Z"
-labels: ["staging", "advanced tools", "activity logs"]
-section_id: 27570215364631
-locale: "en-us"
 ---
 
 The **Activity Logs** feature in WordPress Hosting Pro helps users track actions performed on their **staging site**. It provides a record of significant activities, making it easier to monitor changes and troubleshoot issues.

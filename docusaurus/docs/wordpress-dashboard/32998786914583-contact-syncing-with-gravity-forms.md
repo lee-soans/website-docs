@@ -2,12 +2,6 @@
 title: "Contact Syncing with Gravity Forms"
 sidebar_label: "Contact Syncing with Gravity Forms"
 description: "Gravity Forms is a powerful tool for capturing leads, but to ensure those leads sync correctly with your CRM, certain configurations must be set up properly. T"
-zendesk_id: 32998786914583
-zendesk_url: "https://support.vendasta.com/hc/en-us/articles/32998786914583-Contact-Syncing-with-Gravity-Forms"
-updated_at: "2025-06-23T18:58:22Z"
-labels: ["gravity forms"]
-section_id: 27570091751191
-locale: "en-us"
 ---
 
 Gravity Forms is a powerful tool for capturing leads, but to ensure those leads sync correctly with your CRM, certain configurations must be set up properly. This article walks you through the **essential steps** to ensure contact form submissions are parsed and recorded accurately.

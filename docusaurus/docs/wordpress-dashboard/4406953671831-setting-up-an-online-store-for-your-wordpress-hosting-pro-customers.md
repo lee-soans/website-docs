@@ -2,12 +2,6 @@
 title: "Setting up an online store for your WordPress Hosting Pro customers"
 sidebar_label: "Setting up an online store for your WordPress Hosting Pro customers"
 description: "For many local businesses, a viable tactic to adapt to the changing business climate is to transition to online business by setting up a simple online store."
-zendesk_id: 4406953671831
-zendesk_url: "https://support.vendasta.com/hc/en-us/articles/4406953671831-Setting-up-an-online-store-for-your-WordPress-Hosting-Pro-customers"
-updated_at: "2025-05-21T13:00:03Z"
-labels: ["wordpress", "website pro"]
-section_id: 27570091751191
-locale: "en-us"
 ---
 
 For many local businesses, a viable tactic to adapt to the changing business climate is to transition to online business by setting up a simple online store. This can be as basic as providing an option to purchase a gift card that customers can redeem for services later.

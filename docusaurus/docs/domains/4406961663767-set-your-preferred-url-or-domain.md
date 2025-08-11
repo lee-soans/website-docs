@@ -2,12 +2,6 @@
 title: "Set your preferred URL or domain"
 sidebar_label: "Set your preferred URL or domain"
 description: "The preferred URL or domain can be set from the domains tab of WordPress Hosting.   \n   \n  Select the    Make Primary    button next to the domain you want to"
-zendesk_id: 4406961663767
-zendesk_url: "https://support.vendasta.com/hc/en-us/articles/4406961663767-Set-your-preferred-URL-or-domain"
-updated_at: "2025-06-03T15:57:22Z"
-labels: ["website", "domains", "websitepro"]
-section_id: 27570129178007
-locale: "en-us"
 ---
 
 The preferred URL or domain can be set from the domains tab of WordPress Hosting.

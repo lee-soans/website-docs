@@ -1,7 +1,3 @@
----
-sidebar_position: 8
----
-
 # Google Cloud Armor
 
 When a website is compromised, it is no longer serving the intended information to visitors at best, and sending stolen information about users at worst. Because of this, it is very important to do what we can to ensure that the websites that we host are safe and secure.

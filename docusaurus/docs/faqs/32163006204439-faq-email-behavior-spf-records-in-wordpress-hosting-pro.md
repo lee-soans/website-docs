@@ -2,12 +2,6 @@
 title: "FAQ: Email Behavior & SPF Records in WordPress Hosting Pro"
 sidebar_label: "FAQ: Email Behavior & SPF Records in WordPress Hosting Pro"
 description: "This FAQ covers how WordPress Hosting Pro handles email communications, SPF requirements, and common issues after site migration. \n Q: Does WordPress Hosting P"
-zendesk_id: 32163006204439
-zendesk_url: "https://support.vendasta.com/hc/en-us/articles/32163006204439-FAQ-Email-Behavior-SPF-Records-in-WordPress-Hosting-Pro"
-updated_at: "2025-05-21T13:00:05Z"
-labels: ["website", "website pro", "wordpress hosting"]
-section_id: 4420358256279
-locale: "en-us"
 ---
 
 This FAQ covers how WordPress Hosting Pro handles email communications, SPF requirements, and common issues after site migration.

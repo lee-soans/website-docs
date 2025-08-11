@@ -2,12 +2,6 @@
 title: "FAQ: Templates & Page Builder Tools in WordPress Hosting"
 sidebar_label: "FAQ: Templates & Page Builder Tools in WordPress Hosting"
 description: "WordPress Hosting Pro and WordPress HostingStandard both offer flexible site-building tools, including a selection of pre-built templates and full support for"
-zendesk_id: 32132933378583
-zendesk_url: "https://support.vendasta.com/hc/en-us/articles/32132933378583-FAQ-Templates-Page-Builder-Tools-in-WordPress-Hosting"
-updated_at: "2025-05-21T13:00:05Z"
-labels: ["website", "templates", "page builder"]
-section_id: 4420358256279
-locale: "en-us"
 ---
 
 WordPress Hosting Pro and WordPress HostingStandard both offer flexible site-building tools, including a selection of pre-built templates and full support for custom designs. This article covers how to use, customize, and import templates, and where to find help with Divi Builder.

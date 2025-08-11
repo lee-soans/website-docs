@@ -2,12 +2,6 @@
 title: "FAQ: Analytics, Tracking & Indexing in WordPress Hosting Pro"
 sidebar_label: "FAQ: Analytics, Tracking & Indexing in WordPress Hosting Pro"
 description: "WordPress Hosting Pro and WordPress Hosting Standard provide built-in insights and support external tools like Google Analytics and Search Console. This articl"
-zendesk_id: 32137920258839
-zendesk_url: "https://support.vendasta.com/hc/en-us/articles/32137920258839-FAQ-Analytics-Tracking-Indexing-in-WordPress-Hosting-Pro"
-updated_at: "2025-05-21T13:00:05Z"
-labels: ["website", "google analytics", "website pro", "Google search console", "indexed"]
-section_id: 4420358256279
-locale: "en-us"
 ---
 
 WordPress Hosting Pro and WordPress Hosting Standard provide built-in insights and support external tools like Google Analytics and Search Console. This article covers how to add analytics tracking, understand bounce rates, and confirm whether your site is indexed by Google.

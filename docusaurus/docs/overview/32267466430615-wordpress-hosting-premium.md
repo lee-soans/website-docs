@@ -2,12 +2,6 @@
 title: "WordPress Hosting Premium"
 sidebar_label: "WordPress Hosting Premium"
 description: "WordPress Hosting Premium  is a robust multisite hosting solution tailored for managing multiple WordPress websites under one account. Hosted on  Google Cloud"
-zendesk_id: 32267466430615
-zendesk_url: "https://support.vendasta.com/hc/en-us/articles/32267466430615-WordPress-Hosting-Premium"
-updated_at: "2025-05-21T17:42:40Z"
-labels: ["wordpress hosting", "multisite", "wordpress hosting premium"]
-section_id: 27570064888343
-locale: "en-us"
 ---
 
 **WordPress Hosting Premium** is a robust multisite hosting solution tailored for managing multiple WordPress websites under one account. Hosted on **Google Cloud Platform**, it offers centralized control, enhanced security, and scalable infrastructure which is ideal for agencies, educational institutions, and corporate networks.

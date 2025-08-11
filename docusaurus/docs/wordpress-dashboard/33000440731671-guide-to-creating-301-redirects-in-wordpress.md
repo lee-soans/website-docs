@@ -2,12 +2,6 @@
 title: "Guide to Creating 301 Redirects in WordPress"
 sidebar_label: "Guide to Creating 301 Redirects in WordPress"
 description: "Encountering a  \"Page Not Found\" (404 error)  can frustrate users and harm your website’s credibility, leading visitors to abandon your site. Broken links also"
-zendesk_id: 33000440731671
-zendesk_url: "https://support.vendasta.com/hc/en-us/articles/33000440731671-Guide-to-Creating-301-Redirects-in-WordPress"
-updated_at: "2025-06-23T19:45:48Z"
-labels: ["WordPress", "301 redirects"]
-section_id: 27570091751191
-locale: "en-us"
 ---
 
 Encountering a **"Page Not Found" (404 error)** can frustrate users and harm your website’s credibility, leading visitors to abandon your site. Broken links also negatively impact **SEO and user experience**.

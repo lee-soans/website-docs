@@ -2,12 +2,6 @@
 title: "How to Configure Gmail SMTP on Your WordPress Website"
 sidebar_label: "How to Configure Gmail SMTP on Your WordPress Website"
 description: "This article walks you through setting up Gmail SMTP for your WordPress website using the  WP Mail SMTP  plugin and  Google Cloud Console . This configuration"
-zendesk_id: 32998698678551
-zendesk_url: "https://support.vendasta.com/hc/en-us/articles/32998698678551-How-to-Configure-Gmail-SMTP-on-Your-WordPress-Website"
-updated_at: "2025-06-23T18:53:58Z"
-labels: ["SMTP"]
-section_id: 27570091751191
-locale: "en-us"
 ---
 
 This article walks you through setting up Gmail SMTP for your WordPress website using the **WP Mail SMTP** plugin and **Google Cloud Console**. This configuration allows you to send emails securely via Gmail instead of relying on your hosting server.

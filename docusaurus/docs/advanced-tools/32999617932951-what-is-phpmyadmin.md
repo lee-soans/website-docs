@@ -2,12 +2,6 @@
 title: "What is phpMyAdmin?"
 sidebar_label: "What is phpMyAdmin?"
 description: "What is phpMyAdmin? \n \n \n \n \n \n \n phpMyAdmin is a open source web-based tool that allows you to manage the database of your WordPress site. It's a powerful int"
-zendesk_id: 32999617932951
-zendesk_url: "https://support.vendasta.com/hc/en-us/articles/32999617932951-What-is-phpMyAdmin"
-updated_at: "2025-06-23T19:20:53Z"
-labels: ["phpmyadmin", "PHP"]
-section_id: 27570215364631
-locale: "en-us"
 ---
 
 ### What is phpMyAdmin?

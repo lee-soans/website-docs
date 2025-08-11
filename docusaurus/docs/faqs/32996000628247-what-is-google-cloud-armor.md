@@ -2,12 +2,6 @@
 title: "What is Google Cloud Armor?"
 sidebar_label: "What is Google Cloud Armor?"
 description: "Ensuring the security of your website is essential, as compromised sites can mislead users or even steal their information. Google Cloud Armor is a tool design"
-zendesk_id: 32996000628247
-zendesk_url: "https://support.vendasta.com/hc/en-us/articles/32996000628247-What-is-Google-Cloud-Armor"
-updated_at: "2025-06-23T17:29:22Z"
-labels: ["Google Cloud Armor"]
-section_id: 4420358256279
-locale: "en-us"
 ---
 
 Ensuring the security of your website is essential, as compromised sites can mislead users or even steal their information. Google Cloud Armor is a tool designed to protect websites by blocking malicious traffic and preventing common attacks.

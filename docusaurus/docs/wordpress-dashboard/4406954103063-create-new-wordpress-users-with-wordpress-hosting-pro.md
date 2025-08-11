@@ -2,12 +2,6 @@
 title: "Create new WordPress users with WordPress Hosting Pro"
 sidebar_label: "Create new WordPress users with WordPress Hosting Pro"
 description: "To create WordPress users using WordPress Hosting Pro, you must create a Business App user and a WordPress user will get automatically created. Users are ident"
-zendesk_id: 4406954103063
-zendesk_url: "https://support.vendasta.com/hc/en-us/articles/4406954103063-Create-new-WordPress-users-with-WordPress-Hosting-Pro"
-updated_at: "2025-05-21T13:00:03Z"
-labels: ["users", "wordpress", "website", "websitepro"]
-section_id: 27570091751191
-locale: "en-us"
 ---
 
 To create WordPress users using WordPress Hosting Pro, you must create a Business App user and a WordPress user will get automatically created. Users are identified by email address.

@@ -2,12 +2,6 @@
 title: "Connect a Custom Domain"
 sidebar_label: "Connect a Custom Domain"
 description: "To connect a custom domain, follow these steps:  \n  Part 1: Your domain and its Records  \n \n Purchase a domain from a Domain Registrar. \n Find the Domain"
-zendesk_id: 4406954041367
-zendesk_url: "https://support.vendasta.com/hc/en-us/articles/4406954041367-Connect-a-Custom-Domain"
-updated_at: "2025-05-21T13:00:07Z"
-labels: ["a record", "cname", "dns", "domain", "websitepro"]
-section_id: 27570129178007
-locale: "en-us"
 ---
 
 To connect a custom domain, follow these steps: 

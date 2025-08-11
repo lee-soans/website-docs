@@ -1,7 +1,3 @@
----
-sidebar_position: 2
----
-
 # How should I configure my DNS records to connect to WordPress Hosting?
 DNS Records are an important and necessary part of of the web. You can learn more about them from the article [What are DNS records?](./what-are-dns-records)
 

@@ -2,12 +2,6 @@
 title: "Email Status in Email History"
 sidebar_label: "Email Status in Email History"
 description: "When you delve into the Activity section, you'll often encounter various email statuses. These statuses provide valuable insights into the performance of your"
-zendesk_id: 32999789026455
-zendesk_url: "https://support.vendasta.com/hc/en-us/articles/32999789026455-Email-Status-in-Email-History"
-updated_at: "2025-06-23T19:25:52Z"
-labels: ["email history", "email status"]
-section_id: 27570153018647
-locale: "en-us"
 ---
 
 When you delve into the Activity section, you'll often encounter various email statuses. These statuses provide valuable insights into the performance of your email campaigns. Let's break down the most common ones:

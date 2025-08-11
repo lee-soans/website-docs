@@ -2,12 +2,6 @@
 title: "Why Are No Email Logs Showing in the Email History?"
 sidebar_label: "Why Are No Email Logs Showing in the Email History?"
 description: "If you do not see any email logs under the  Email History  tab in WordPress Hosting Pro, it is likely because your website is configured to use an external SMT"
-zendesk_id: 32999695738775
-zendesk_url: "https://support.vendasta.com/hc/en-us/articles/32999695738775-Why-Are-No-Email-Logs-Showing-in-the-Email-History"
-updated_at: "2025-06-23T19:23:24Z"
-labels: ["email history", "email logs"]
-section_id: 27570153018647
-locale: "en-us"
 ---
 
 If you do not see any email logs under the **Email History** tab in WordPress Hosting Pro, it is likely because your website is configured to use an external SMTP service ( like WP MAIL SMTP) to send emails. When external SMTP services are used, WordPress Hosting Pro cannot capture and log these emails.

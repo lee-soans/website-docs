@@ -2,12 +2,6 @@
 title: "Get Started with Elementor AI"
 sidebar_label: "Get Started with Elementor AI"
 description: "Elementor AI is a powerful tool integrated into the Elementor page builder, enabling users to generate text, code using artificial intelligence. This guide wi"
-zendesk_id: 29625054388375
-zendesk_url: "https://support.vendasta.com/hc/en-us/articles/29625054388375-Get-Started-with-Elementor-AI"
-updated_at: "2025-06-03T14:59:24Z"
-labels: ["elementor"]
-section_id: 27570091751191
-locale: "en-us"
 ---
 
 Elementor AI is a powerful tool integrated into the Elementor page builder, enabling users to generate text, code using artificial intelligence. This guide will walk you through how to use Elementor AI effectively within your WordPress dashboard.

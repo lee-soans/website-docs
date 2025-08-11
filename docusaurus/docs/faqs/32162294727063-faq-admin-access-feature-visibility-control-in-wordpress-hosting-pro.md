@@ -2,12 +2,6 @@
 title: "FAQ: Admin Access, Feature Visibility & Control in WordPress Hosting Pro"
 sidebar_label: "FAQ: Admin Access, Feature Visibility & Control in WordPress Hosting Pro"
 description: "This FAQ covers how Partner admins can control what features users see in the WordPress Hosting Pro dashboard, and answers common questions about access to too"
-zendesk_id: 32162294727063
-zendesk_url: "https://support.vendasta.com/hc/en-us/articles/32162294727063-FAQ-Admin-Access-Feature-Visibility-Control-in-WordPress-Hosting-Pro"
-updated_at: "2025-06-03T14:45:02Z"
-labels: ["website", "sftp", "website pro", "wordpress hosting", "advanced tools", "cpanel", "admin access"]
-section_id: 4420358256279
-locale: "en-us"
 ---
 
 This FAQ covers how Partner admins can control what features users see in the WordPress Hosting Pro dashboard, and answers common questions about access to tools like SFTP, cPanel, and admin panels.

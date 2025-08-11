@@ -2,12 +2,6 @@
 title: "WordPress debugging basics"
 sidebar_label: "WordPress debugging basics"
 description: "How this Guide Works \n We hope after reading this guide that you have the basics on debugging some common problems that can occur within a website set up with"
-zendesk_id: 4406960816663
-zendesk_url: "https://support.vendasta.com/hc/en-us/articles/4406960816663-WordPress-debugging-basics"
-updated_at: "2025-05-21T13:00:02Z"
-labels: ["wordpress"]
-section_id: 27570091751191
-locale: "en-us"
 ---
 
 ### How this Guide Works

@@ -2,12 +2,6 @@
 title: "FAQ: Importing and Migrating Sites to WordPress Hosting Pro"
 sidebar_label: "FAQ: Importing and Migrating Sites to WordPress Hosting Pro"
 description: "WordPress Hosting Pro supports fast and flexible import options for WordPress websites. This article covers the most frequently asked questions around importin"
-zendesk_id: 32136917115799
-zendesk_url: "https://support.vendasta.com/hc/en-us/articles/32136917115799-FAQ-Importing-and-Migrating-Sites-to-WordPress-Hosting-Pro"
-updated_at: "2025-05-21T13:00:06Z"
-labels: ["import", "wordpress", "website pro", "migrate", "wordpress hosting"]
-section_id: 4420358256279
-locale: "en-us"
 ---
 
 WordPress Hosting Pro supports fast and flexible import options for WordPress websites. This article covers the most frequently asked questions around importing existing sites, file size limitations, user access after migration, and supported CMS platforms.

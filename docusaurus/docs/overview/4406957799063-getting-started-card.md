@@ -2,12 +2,6 @@
 title: "Getting Started Card"
 sidebar_label: "Getting Started Card"
 description: "WordPress Hosting Standard and Pro users will see a section on the product’s dashboard. This section has been designed to help guide users through all capabil"
-zendesk_id: 4406957799063
-zendesk_url: "https://support.vendasta.com/hc/en-us/articles/4406957799063-Getting-Started-Card"
-updated_at: "2025-06-03T15:10:28Z"
-labels: ["website", "ecommerce"]
-section_id: 27570064888343
-locale: "en-us"
 ---
 
 WordPress Hosting Standard and Pro users will see a section on the product’s dashboard. This section has been designed to help guide users through all capabilities and important steps of setting up their website and building their eCommerce store. 

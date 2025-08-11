@@ -2,12 +2,6 @@
 title: "FAQ: Developer Tools - Accessing and Managing Your WordPress Hosting Pro Files and Database"
 sidebar_label: "FAQ: Developer Tools - Accessing and Managing Your WordPress Hosting Pro Files and Database"
 description: "WordPress Hosting Pro gives partners the flexibility and power to manage WordPress files and data using advanced tools. This guide answers the most frequently"
-zendesk_id: 31908864923543
-zendesk_url: "https://support.vendasta.com/hc/en-us/articles/31908864923543-FAQ-Developer-Tools-Accessing-and-Managing-Your-WordPress-Hosting-Pro-Files-and-Database"
-updated_at: "2025-06-03T14:54:12Z"
-labels: ["php", "website", "mysql", "sftp", "website pro", "WP", "developer tools", "connection string"]
-section_id: 4420358256279
-locale: "en-us"
 ---
 
 WordPress Hosting Pro gives partners the flexibility and power to manage WordPress files and data using advanced tools. This guide answers the most frequently asked questions about SFTP, phpMyAdmin, file uploads, and system access for developers and technical users.

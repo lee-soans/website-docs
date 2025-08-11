@@ -2,12 +2,6 @@
 title: "Are there any limits on site databases?"
 sidebar_label: "Are there any limits on site databases?"
 description: "WordPress Hosting does not currently impose restrictions on database sizes. \n For WordPress Hosting Pro accounts, certain  MySQL resource limits  are in place"
-zendesk_id: 32996039196183
-zendesk_url: "https://support.vendasta.com/hc/en-us/articles/32996039196183-Are-there-any-limits-on-site-databases"
-updated_at: "2025-06-23T19:31:24Z"
-labels: ["limitations", "limit"]
-section_id: 4420358256279
-locale: "en-us"
 ---
 
 WordPress Hosting does not currently impose restrictions on database sizes.

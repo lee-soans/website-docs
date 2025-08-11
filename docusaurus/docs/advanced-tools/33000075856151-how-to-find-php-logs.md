@@ -2,12 +2,6 @@
 title: "How to Find PHP Logs"
 sidebar_label: "How to Find PHP Logs"
 description: "If you're troubleshooting an issue or debugging your website, accessing PHP logs is crucial. WordPress Hosting Pro makes it easy to view these logs through the"
-zendesk_id: 33000075856151
-zendesk_url: "https://support.vendasta.com/hc/en-us/articles/33000075856151-How-to-Find-PHP-Logs"
-updated_at: "2025-06-23T19:36:11Z"
-labels: ["PHP logs", "PHP"]
-section_id: 27570215364631
-locale: "en-us"
 ---
 
 If you're troubleshooting an issue or debugging your website, accessing PHP logs is crucial. WordPress Hosting Pro makes it easy to view these logs through the **Advanced Tools** section. Follow the steps below to locate your PHP logs:

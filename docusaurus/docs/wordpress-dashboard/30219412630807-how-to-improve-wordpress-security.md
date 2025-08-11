@@ -2,12 +2,6 @@
 title: "How to improve WordPress security"
 sidebar_label: "How to improve WordPress security"
 description: "WordPress is popular, which makes it a target for hackers. While WordPress provides security updates, it is also recommended that users also need to take extra"
-zendesk_id: 30219412630807
-zendesk_url: "https://support.vendasta.com/hc/en-us/articles/30219412630807-How-to-improve-WordPress-security"
-updated_at: "2025-05-20T21:20:07Z"
-labels: ["wordpress", "security"]
-section_id: 27570091751191
-locale: "en-us"
 ---
 
 WordPress is popular, which makes it a target for hackers. While WordPress provides security updates, it is also recommended that users also need to take extra steps to protect their sites from cyberattacks.

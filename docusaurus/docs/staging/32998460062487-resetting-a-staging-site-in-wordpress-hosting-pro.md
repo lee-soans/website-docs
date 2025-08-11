@@ -2,12 +2,6 @@
 title: "Resetting a Staging Site in WordPress Hosting Pro"
 sidebar_label: "Resetting a Staging Site in WordPress Hosting Pro"
 description: "WordPress Hosting Pro provides three flexible options for resetting your staging environment, allowing you to tailor it to your needs.    \n 1. Reset to Live Si"
-zendesk_id: 32998460062487
-zendesk_url: "https://support.vendasta.com/hc/en-us/articles/32998460062487-Resetting-a-Staging-Site-in-WordPress-Hosting-Pro"
-updated_at: "2025-06-23T18:46:55Z"
-labels: ["staging"]
-section_id: 27570116222999
-locale: "en-us"
 ---
 
 WordPress Hosting Pro provides three flexible options for resetting your staging environment, allowing you to tailor it to your needs.  

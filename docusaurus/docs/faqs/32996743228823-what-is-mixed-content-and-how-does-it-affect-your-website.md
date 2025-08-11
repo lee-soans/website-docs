@@ -2,12 +2,6 @@
 title: "What is Mixed Content and How Does It Affect Your Website?"
 sidebar_label: "What is Mixed Content and How Does It Affect Your Website?"
 description: "Mixed content  refers to a situation where a website loads both secure (HTTPS) and non-secure (HTTP) elements on the same page. These elements can include ima"
-zendesk_id: 32996743228823
-zendesk_url: "https://support.vendasta.com/hc/en-us/articles/32996743228823-What-is-Mixed-Content-and-How-Does-It-Affect-Your-Website"
-updated_at: "2025-06-23T17:52:45Z"
-labels: ["mixed content"]
-section_id: 4420358256279
-locale: "en-us"
 ---
 
 **Mixed content** refers to a situation where a website loads both secure (HTTPS) and non-secure (HTTP) elements on the same page. These elements can include images, scripts, or other resources that are being loaded over an insecure connection, even though the website itself is securely served via HTTPS.

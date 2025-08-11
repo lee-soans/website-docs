@@ -2,12 +2,6 @@
 title: "Add Google Tag/AdSense Code to WordPress"
 sidebar_label: "Add Google Tag/AdSense Code to WordPress"
 description: "Adding a Google Tag or AdSense code to your WordPress site is a straightforward process. Follow these steps to ensure the code is correctly integrated into you"
-zendesk_id: 33001966700823
-zendesk_url: "https://support.vendasta.com/hc/en-us/articles/33001966700823-Add-Google-Tag-AdSense-Code-to-WordPress"
-updated_at: "2025-06-23T20:24:41Z"
-labels: ["WordPress", "google tag"]
-section_id: 27570091751191
-locale: "en-us"
 ---
 
 Adding a Google Tag or AdSense code to your WordPress site is a straightforward process. Follow these steps to ensure the code is correctly integrated into your website.

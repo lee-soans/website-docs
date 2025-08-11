@@ -2,12 +2,6 @@
 title: "Real-time performance notifications"
 sidebar_label: "Real-time performance notifications"
 description: "Provide an excellent customer experience with real-time notifications on the status of your client websites, so you can quickly resolve issues and maintain e"
-zendesk_id: 5426325099287
-zendesk_url: "https://support.vendasta.com/hc/en-us/articles/5426325099287-Real-time-performance-notifications"
-updated_at: "2025-05-20T20:24:23Z"
-labels: []
-section_id: 27570064888343
-locale: "en-us"
 ---
 
 _Provide an excellent customer experience with real-time notifications on the status of your client websites, so you can quickly resolve issues and maintain exceptional performance._

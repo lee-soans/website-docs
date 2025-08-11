@@ -2,12 +2,6 @@
 title: "Cron Jobs on WordPress Hosting"
 sidebar_label: "Cron Jobs on WordPress Hosting"
 description: "Imagine never having to manually schedule a post, run backups, or send out those crucial emails again. That’s the magic of  Cron Jobs  in WordPress, your websi"
-zendesk_id: 33001382943255
-zendesk_url: "https://support.vendasta.com/hc/en-us/articles/33001382943255-Cron-Jobs-on-WordPress-Hosting"
-updated_at: "2025-06-23T20:06:55Z"
-labels: ["WordPress", "cron jobs"]
-section_id: 27570091751191
-locale: "en-us"
 ---
 
 Imagine never having to manually schedule a post, run backups, or send out those crucial emails again. That’s the magic of **Cron Jobs** in WordPress, your website’s very own automation wizard.

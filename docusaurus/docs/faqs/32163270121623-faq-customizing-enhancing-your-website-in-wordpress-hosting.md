@@ -2,12 +2,6 @@
 title: "FAQ: Customizing & Enhancing Your Website in WordPress Hosting"
 sidebar_label: "FAQ: Customizing & Enhancing Your Website in WordPress Hosting"
 description: "This FAQ covers small but powerful ways to customize your website’s appearance and user experience — from popups and ADA tools to SEO settings and builder visi"
-zendesk_id: 32163270121623
-zendesk_url: "https://support.vendasta.com/hc/en-us/articles/32163270121623-FAQ-Customizing-Enhancing-Your-Website-in-WordPress-Hosting"
-updated_at: "2025-05-21T13:00:05Z"
-labels: ["php", "website", "divi", "ADA"]
-section_id: 4420358256279
-locale: "en-us"
 ---
 
 This FAQ covers small but powerful ways to customize your website’s appearance and user experience — from popups and ADA tools to SEO settings and builder visibility.

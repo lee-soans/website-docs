@@ -2,12 +2,6 @@
 title: "Google Analytics View"
 sidebar_label: "Google Analytics View"
 description: "The Google Analytics view in WordPress Hosting Pro allows Partners and their clients to view their Top Traffic Sources and Page View metrics within the produc"
-zendesk_id: 4406961519255
-zendesk_url: "https://support.vendasta.com/hc/en-us/articles/4406961519255-Google-Analytics-View"
-updated_at: "2025-05-21T13:00:08Z"
-labels: ["websitepro", "google analytics"]
-section_id: 27570079227287
-locale: "en-us"
 ---
 
 The Google Analytics view in WordPress Hosting Pro allows Partners and their clients to view their Top Traffic Sources and Page View metrics within the product. Some available metrics include:

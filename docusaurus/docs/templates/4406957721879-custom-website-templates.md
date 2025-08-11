@@ -2,12 +2,6 @@
 title: "Custom Website Templates"
 sidebar_label: "Custom Website Templates"
 description: "What are custom templates? \n Partners offering the  WordPress Hosting  product have the ability to create custom templates to either offer to their customers o"
-zendesk_id: 4406957721879
-zendesk_url: "https://support.vendasta.com/hc/en-us/articles/4406957721879-Custom-Website-Templates"
-updated_at: "2025-06-03T16:38:14Z"
-labels: ["template", "website"]
-section_id: 27570186729239
-locale: "en-us"
 ---
 
 ### What are custom templates?

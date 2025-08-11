@@ -2,12 +2,6 @@
 title: "FAQ: Common Plugin Issues"
 sidebar_label: "FAQ: Common Plugin Issues"
 description: "There are thousands of plugins available for WordPress sites and most of them will work with WordPress Hosting Pro seamlessly. WordPress Hosting Pro does not p"
-zendesk_id: 4406961619223
-zendesk_url: "https://support.vendasta.com/hc/en-us/articles/4406961619223-FAQ-Common-Plugin-Issues"
-updated_at: "2025-05-21T13:00:05Z"
-labels: ["plugin", "website", "websitepro", "blacklist", "blacklisted", "plugins"]
-section_id: 4420358256279
-locale: "en-us"
 ---
 
 There are thousands of plugins available for WordPress sites and most of them will work with WordPress Hosting Pro seamlessly. WordPress Hosting Pro does not prevent users from installing any plugins. However, some plugins have functionality that interferes with the operation of your site in the WordPress Hosting Pro ecosystem. Such plugins could not jive for a couple of reasons. Most often, it is because they provide duplicate (or the same) functionality that is already provided by WordPress Hosting Pro. These plugins include, but are not limited to:

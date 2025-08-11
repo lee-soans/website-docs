@@ -2,12 +2,6 @@
 title: "FAQ: Staging, Backups & Security"
 sidebar_label: "FAQ: Staging, Backups & Security"
 description: "WordPress Hosting Pro includes tools to manage site versions, backups, and hosting infrastructure security. This FAQ covers common questions about staging envi"
-zendesk_id: 31945021142295
-zendesk_url: "https://support.vendasta.com/hc/en-us/articles/31945021142295-FAQ-Staging-Backups-Security"
-updated_at: "2025-05-21T13:00:04Z"
-labels: ["website", "backups", "staging", "security", "wordpress hosting"]
-section_id: 4420358256279
-locale: "en-us"
 ---
 
 WordPress Hosting Pro includes tools to manage site versions, backups, and hosting infrastructure security. This FAQ covers common questions about staging environments, backup alerts, rate limiting, and how the platform protects against denial-of-service (DoS) attacks.

@@ -2,12 +2,6 @@
 title: "Troubleshoot SSL issues in WordPress Hosting"
 sidebar_label: "Troubleshoot SSL issues in WordPress Hosting"
 description: "If you have correctly added the following A and CNAME records in your domain’s DNS settings, follow the steps below to connect SSL to your custom domain. \n Req"
-zendesk_id: 29594088000151
-zendesk_url: "https://support.vendasta.com/hc/en-us/articles/29594088000151-Troubleshoot-SSL-issues-in-WordPress-Hosting"
-updated_at: "2025-06-03T15:18:17Z"
-labels: ["ssl", "wordpress hosting"]
-section_id: 27570129178007
-locale: "en-us"
 ---
 
 If you have correctly added the following A and CNAME records in your domain’s DNS settings, follow the steps below to connect SSL to your custom domain.

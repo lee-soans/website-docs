@@ -2,12 +2,6 @@
 title: "WooCommerce Order Info in Contact List"
 sidebar_label: "WooCommerce Order Info in Contact List"
 description: "H aving exceptional customer relationships is crucial to the success of any business. By automatically syncing the information of purchasing customers, client"
-zendesk_id: 5024958640919
-zendesk_url: "https://support.vendasta.com/hc/en-us/articles/5024958640919-WooCommerce-Order-Info-in-Contact-List"
-updated_at: "2025-05-21T13:00:03Z"
-labels: ["orders", "website", "woocommerce", "website pro"]
-section_id: 27570091751191
-locale: "en-us"
 ---
 
 Having exceptional customer relationships is crucial to the success of any business. By automatically syncing the information of purchasing customers, clients can create targeted campaigns, ask for reviews, or contact their customers individually to nurture their existing clientele, improve customer retention, drive loyalty, and increase repeat purchases or orders.
