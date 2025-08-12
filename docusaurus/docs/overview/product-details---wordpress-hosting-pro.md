@@ -16,7 +16,7 @@ WordPress Hosting Pro hosts your clients’ WordPress sites with the most truste
 
 * * *
 
-[![website-pro-logo.png](./img/4406958669591-df49e85001.png)Download Logo](https://support.vendasta.com/hc/article_attachments/360004309114/website-pro-logo.png)
+![WordPress Hosting Pro logo](./img/4406958669591-df49e85001.png)
 
 **Product Description**
 

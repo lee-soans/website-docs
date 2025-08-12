@@ -69,7 +69,7 @@ Here’s how to do it:
 5.  Connect your domain to WordPress Hosting Pro via the Domains tab.
     
 
-See [Manual Import Instructions](https://support.vendasta.com/hc/en-us/articles/32136917115799-FAQ-Importing-and-Migrating-Sites-to-WordPress-Hosting-Pro#) for a full walkthrough.
+See the manual import steps below for a full walkthrough.
 
 #### **Q: What if my backup file is larger than 512MB?**
 
@@ -124,7 +124,7 @@ If your client is on Wix:
 No. WordPress Hosting Pro supports `.wpress` files used by **All-in-One WP Migration**, but **.zip files cannot be converted** to `.wpress`.
 
 **Alternative:**  
-Follow the [manual import process](https://support.vendasta.com/hc/en-us/articles/32136917115799-FAQ-Importing-and-Migrating-Sites-to-WordPress-Hosting-Pro#) using SFTP and phpMyAdmin.
+Follow the manual import process using SFTP and phpMyAdmin.
 
 #### **Q: What happens to WordPress users after a site import?**
 

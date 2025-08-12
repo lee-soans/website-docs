@@ -69,4 +69,4 @@ To connect over SFTP, you must:
 *   Use an SFTP client like FileZilla with your username and key file
     
 
-> For setup steps, see: **[How to use SFTP to access the file system](https://support.vendasta.com/hc/en-us/articles/32162294727063-FAQ-Admin-Access-Feature-Visibility-Control-in-WordPress-Hosting-Pro#)** (insert link)
+> For setup steps, see: How to use SFTP to access the file system in the WordPress Hosting dashboard under Advanced Tools.

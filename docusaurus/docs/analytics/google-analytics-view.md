@@ -25,7 +25,7 @@ The Google Analytics view in WordPress Hosting Pro allows Partners and their cli
 
 ### How to add your own Google Analytics account
 
-Click **[here](https://support.vendasta.com/hc/en-us/articles/4406961562007)** for steps on how to add your Google Analytics account
+See [Add your own analytics account](./add-your-own-analytics-account) for steps on how to add your Google Analytics account
 
 ### How does the Google Analytics view work?
 

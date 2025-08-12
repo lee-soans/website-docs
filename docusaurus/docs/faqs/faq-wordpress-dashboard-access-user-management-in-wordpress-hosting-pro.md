@@ -54,7 +54,7 @@ There are two supported methods for updating a WordPress user’s role:
 
 **Option 1: Create via Business App**
 
-1.  Create a [Business App user.](https://support.vendasta.com/hc/en-us/articles/4406951619479-Add-a-user-to-an-account)
+1.  Create a Business App user.
     
 2.  Log in to WordPress as that user.
     
