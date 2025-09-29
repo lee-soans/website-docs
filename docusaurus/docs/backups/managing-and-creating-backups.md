@@ -14,11 +14,11 @@ Protecting your website is crucial, and our hosting dashboard provides a powerfu
 
 Our platform offers a dual-layered backup system for complete peace of mind, combining automated daily backups with the flexibility of on-demand manual backups.
 
-### Automated Daily Backups 🛡️
+### Automated Daily Backups
 
 Every day, our system **automatically creates a backup of your live website**. This ensures that your latest content, updates, and changes are safeguarded without you needing to do anything.
 
-### Manual On-Demand Backups  fleksibel
+### Manual On-Demand Backups 
 
 For moments when you need an immediate backup—like right before a major update or theme change—you can generate a backup at any time. This gives you an extra layer of control and ensures you always have a recent recovery point.
 
